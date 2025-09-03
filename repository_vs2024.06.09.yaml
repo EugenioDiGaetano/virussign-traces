@@ -1,3 +1,9 @@
+title: VirusSign Collection 2024.06.09
+description: Traffic generated running VxUnderground VirusSign Collection 2024.06.09
+  on a Windows 11 machine
+creation_date: 20/06/2024
+version: 1.0
+traces:
 - binary_date: 1717898605.0
   bytes: 528
   description: VirusSign Collection 2024.06.09
@@ -20,6 +26,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719392331.612378
+  last_packet_ts: 1719392331.830508
 - binary_date: 1717672661.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -42,6 +50,8 @@
     value: trojan
   - count: 17
     value: downloader
+  first_packet_ts: 1719444494.210586
+  last_packet_ts: 1719444749.855918
 - binary_date: 1717964567.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -64,6 +74,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719307981.503175
+  last_packet_ts: 1719308237.419722
 - binary_date: 1717964929.0
   bytes: 2095
   description: VirusSign Collection 2024.06.09
@@ -86,6 +98,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719304852.05195
+  last_packet_ts: 1719305107.754811
 - binary_date: 1717699613.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -108,6 +122,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719251490.166758
+  last_packet_ts: 1719251746.21206
 - binary_date: 1717738287.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -130,6 +146,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719457592.28461
+  last_packet_ts: 1719457848.217169
 - binary_date: 1717976740.0
   bytes: 10603
   description: VirusSign Collection 2024.06.09
@@ -152,6 +170,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719291698.412568
+  last_packet_ts: 1719291730.964881
 - binary_date: 1717793151.0
   bytes: 14144
   description: VirusSign Collection 2024.06.09
@@ -176,6 +196,8 @@
     value: downloader
   - count: 2
     value: banker
+  first_packet_ts: 1719484609.855748
+  last_packet_ts: 1719484860.655983
 - binary_date: 1717789391.0
   bytes: 628
   description: VirusSign Collection 2024.06.09
@@ -198,6 +220,8 @@
     value: trojan
   - count: 2
     value: ransomware
+  first_packet_ts: 1719361294.029839
+  last_packet_ts: 1719361309.371473
 - binary_date: 1717794652.0
   bytes: 22967
   description: VirusSign Collection 2024.06.09
@@ -222,6 +246,8 @@
     value: banker
   - count: 2
     value: downloader
+  first_packet_ts: 1719243119.178769
+  last_packet_ts: 1719243378.156605
 - binary_date: 1717895412.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -244,6 +270,8 @@
     value: trojan
   - count: 9
     value: downloader
+  first_packet_ts: 1719445328.993231
+  last_packet_ts: 1719445584.505803
 - binary_date: 1717738565.0
   bytes: 844
   description: VirusSign Collection 2024.06.09
@@ -264,6 +292,8 @@
   vt_popular_threat_category:
   - count: 32
     value: trojan
+  first_packet_ts: 1719506904.033238
+  last_packet_ts: 1719507120.127401
 - binary_date: 1717681845.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -286,6 +316,8 @@
     value: downloader
   - count: 3
     value: trojan
+  first_packet_ts: 1719504185.220993
+  last_packet_ts: 1719504441.061639
 - binary_date: 1717907216.0
   bytes: 3072375
   description: VirusSign Collection 2024.06.09
@@ -310,6 +342,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719491801.327182
+  last_packet_ts: 1719492098.886115
 - binary_date: 1717693622.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -332,6 +366,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719396251.973633
+  last_packet_ts: 1719396507.716432
 - binary_date: 1717738714.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -354,6 +390,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719464127.024288
+  last_packet_ts: 1719464383.041162
 - binary_date: 1717969985.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -376,6 +414,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719325769.679716
+  last_packet_ts: 1719326031.082348
 - binary_date: 1717905964.0
   bytes: 2077767
   description: VirusSign Collection 2024.06.09
@@ -398,6 +438,8 @@
     value: virus
   - count: 3
     value: trojan
+  first_packet_ts: 1719257757.703131
+  last_packet_ts: 1719258055.286625
 - binary_date: 1717791914.0
   bytes: 3590528
   description: VirusSign Collection 2024.06.09
@@ -422,6 +464,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719462492.974861
+  last_packet_ts: 1719462788.809506
 - binary_date: 1717618509.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -444,6 +488,8 @@
     value: trojan
   - count: 3
     value: downloader
+  first_packet_ts: 1719409721.153771
+  last_packet_ts: 1719409977.309076
 - binary_date: 1717997449.0
   bytes: 18016659
   description: VirusSign Collection 2024.06.09
@@ -468,6 +514,8 @@
     value: downloader
   - count: 2
     value: pua
+  first_packet_ts: 1719248857.096707
+  last_packet_ts: 1719248983.307772
 - binary_date: 1718022125.0
   bytes: 3298785
   description: VirusSign Collection 2024.06.09
@@ -492,6 +540,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719237846.095265
+  last_packet_ts: 1719238142.401888
 - binary_date: 1717793283.0
   bytes: 21789
   description: VirusSign Collection 2024.06.09
@@ -516,6 +566,8 @@
     value: banker
   - count: 2
     value: downloader
+  first_packet_ts: 1719281850.500264
+  last_packet_ts: 1719282094.696822
 - binary_date: 1717708022.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -538,6 +590,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719238632.488942
+  last_packet_ts: 1719238888.174675
 - binary_date: 1717687024.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -560,6 +614,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719285253.167951
+  last_packet_ts: 1719285508.703241
 - binary_date: 1717736617.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -582,6 +638,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719338191.873284
+  last_packet_ts: 1719338447.65683
 - binary_date: 1717966054.0
   bytes: 3649296
   description: VirusSign Collection 2024.06.09
@@ -606,6 +664,8 @@
     value: trojan
   - count: 5
     value: pua
+  first_packet_ts: 1719388530.058297
+  last_packet_ts: 1719388826.946238
 - binary_date: 1717742926.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -628,6 +688,8 @@
     value: trojan
   - count: 13
     value: downloader
+  first_packet_ts: 1719356055.592469
+  last_packet_ts: 1719356311.470871
 - binary_date: 1717733768.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -650,6 +712,8 @@
     value: trojan
   - count: 14
     value: downloader
+  first_packet_ts: 1719404617.918803
+  last_packet_ts: 1719404873.853965
 - binary_date: 1498313161.0
   bytes: 316
   description: VirusSign Collection 2024.06.09
@@ -674,6 +738,8 @@
     value: pua
   - count: 2
     value: virus
+  first_packet_ts: 1719488969.091377
+  last_packet_ts: 1719488969.12574
 - binary_date: 1717690861.0
   bytes: 2749
   description: VirusSign Collection 2024.06.09
@@ -696,6 +762,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719295437.80261
+  last_packet_ts: 1719295693.940221
 - binary_date: 1717808237.0
   bytes: 108753
   description: VirusSign Collection 2024.06.09
@@ -720,6 +788,8 @@
     value: miner
   - count: 2
     value: banker
+  first_packet_ts: 1719239701.578638
+  last_packet_ts: 1719239996.261964
 - binary_date: 1717613490.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -742,6 +812,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719379206.218901
+  last_packet_ts: 1719379462.037416
 - binary_date: 1717966650.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -764,6 +836,8 @@
     value: trojan
   - count: 19
     value: downloader
+  first_packet_ts: 1719366368.871021
+  last_packet_ts: 1719366624.621233
 - binary_date: 1717789280.0
   bytes: 14368
   description: VirusSign Collection 2024.06.09
@@ -784,6 +858,8 @@
   vt_popular_threat_category:
   - count: 27
     value: trojan
+  first_packet_ts: 1719340588.282472
+  last_packet_ts: 1719340867.216951
 - binary_date: 1717987875.0
   bytes: 2749
   description: VirusSign Collection 2024.06.09
@@ -806,6 +882,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719277919.414527
+  last_packet_ts: 1719278175.935483
 - binary_date: 1717704186.0
   bytes: 844
   description: VirusSign Collection 2024.06.09
@@ -826,6 +904,8 @@
   vt_popular_threat_category:
   - count: 31
     value: trojan
+  first_packet_ts: 1719411885.653858
+  last_packet_ts: 1719412101.718337
 - binary_date: 1717993650.0
   bytes: 18039
   description: VirusSign Collection 2024.06.09
@@ -850,6 +930,8 @@
     value: downloader
   - count: 6
     value: dropper
+  first_packet_ts: 1719284021.542035
+  last_packet_ts: 1719284022.204005
 - binary_date: 1717789334.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -872,6 +954,8 @@
     value: trojan
   - count: 14
     value: downloader
+  first_packet_ts: 1719259513.26345
+  last_packet_ts: 1719259769.225502
 - binary_date: 1717883111.0
   bytes: 6150751
   description: VirusSign Collection 2024.06.09
@@ -892,6 +976,8 @@
   vt_popular_threat_category:
   - count: 3
     value: adware
+  first_packet_ts: 1719344503.658898
+  last_packet_ts: 1719344568.616326
 - binary_date: 1717865754.0
   bytes: 2812
   description: VirusSign Collection 2024.06.09
@@ -916,6 +1002,8 @@
     value: miner
   - count: 4
     value: downloader
+  first_packet_ts: 1719433422.151855
+  last_packet_ts: 1719433586.176348
 - binary_date: 1717742439.0
   bytes: 77723
   description: VirusSign Collection 2024.06.09
@@ -936,6 +1024,8 @@
   vt_popular_threat_category:
   - count: 21
     value: trojan
+  first_packet_ts: 1719244868.864094
+  last_packet_ts: 1719244892.31355
 - binary_date: 1717793223.0
   bytes: 238
   description: VirusSign Collection 2024.06.09
@@ -958,6 +1048,8 @@
     value: trojan
   - count: 15
     value: worm
+  first_packet_ts: 1719447614.646461
+  last_packet_ts: 1719447614.676899
 - binary_date: 1717930835.0
   bytes: 9942
   description: VirusSign Collection 2024.06.09
@@ -980,6 +1072,8 @@
     value: trojan
   - count: 8
     value: dropper
+  first_packet_ts: 1719360964.688508
+  last_packet_ts: 1719361062.535223
 - binary_date: 1717791650.0
   bytes: 1235404
   description: VirusSign Collection 2024.06.09
@@ -1002,6 +1096,8 @@
     value: virus
   - count: 4
     value: trojan
+  first_packet_ts: 1719277272.788853
+  last_packet_ts: 1719277562.297057
 - binary_date: 1717738480.0
   bytes: 19338
   description: VirusSign Collection 2024.06.09
@@ -1026,6 +1122,8 @@
     value: downloader
   - count: 2
     value: banker
+  first_packet_ts: 1719387910.852457
+  last_packet_ts: 1719388168.131586
 - binary_date: 1717715887.0
   bytes: 2858
   description: VirusSign Collection 2024.06.09
@@ -1048,6 +1146,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719273294.79886
+  last_packet_ts: 1719273550.565119
 - binary_date: 1717696839.0
   bytes: 2095
   description: VirusSign Collection 2024.06.09
@@ -1070,6 +1170,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719410489.802743
+  last_packet_ts: 1719410745.671501
 - binary_date: 1717703849.0
   bytes: 9875
   description: VirusSign Collection 2024.06.09
@@ -1094,6 +1196,8 @@
     value: dropper
   - count: 2
     value: pua
+  first_packet_ts: 1719490979.625562
+  last_packet_ts: 1719491262.594901
 - binary_date: 1717741096.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -1116,6 +1220,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719306007.766294
+  last_packet_ts: 1719306263.855756
 - binary_date: 1717995943.0
   bytes: 25563
   description: VirusSign Collection 2024.06.09
@@ -1140,6 +1246,8 @@
     value: downloader
   - count: 5
     value: dropper
+  first_packet_ts: 1719303708.118639
+  last_packet_ts: 1719303708.745452
 - binary_date: 1717702326.0
   bytes: 6806
   description: VirusSign Collection 2024.06.09
@@ -1164,6 +1272,8 @@
     value: pua
   - count: 2
     value: spyware
+  first_packet_ts: 1719458425.325546
+  last_packet_ts: 1719458425.526199
 - binary_date: 1717791708.0
   bytes: 287559
   description: VirusSign Collection 2024.06.09
@@ -1186,6 +1296,8 @@
     value: trojan
   - count: 14
     value: downloader
+  first_packet_ts: 1719244004.291562
+  last_packet_ts: 1719244280.060787
 - binary_date: 1717735562.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -1208,6 +1320,8 @@
     value: trojan
   - count: 17
     value: downloader
+  first_packet_ts: 1719419845.470487
+  last_packet_ts: 1719420101.293131
 - binary_date: 1717726831.0
   bytes: 1986
   description: VirusSign Collection 2024.06.09
@@ -1230,6 +1344,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719502200.908672
+  last_packet_ts: 1719502457.618882
 - binary_date: 1717968993.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -1252,6 +1368,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719241756.667311
+  last_packet_ts: 1719242012.869681
 - binary_date: 1717765319.0
   bytes: 502
   description: VirusSign Collection 2024.06.09
@@ -1276,6 +1394,8 @@
     value: downloader
   - count: 3
     value: dropper
+  first_packet_ts: 1719352067.498531
+  last_packet_ts: 1719352067.830803
 - binary_date: 1717726831.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -1298,6 +1418,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719455173.604504
+  last_packet_ts: 1719455429.532165
 - binary_date: 1717907190.0
   bytes: 1986
   description: VirusSign Collection 2024.06.09
@@ -1320,6 +1442,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719310340.514049
+  last_packet_ts: 1719310596.205127
 - binary_date: 1717634458.0
   bytes: 432
   description: VirusSign Collection 2024.06.09
@@ -1340,6 +1464,8 @@
   vt_popular_threat_category:
   - count: 7
     value: trojan
+  first_packet_ts: 1719457204.557321
+  last_packet_ts: 1719457204.572329
 - binary_date: 1717709551.0
   bytes: 2749
   description: VirusSign Collection 2024.06.09
@@ -1362,6 +1488,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719270277.845464
+  last_packet_ts: 1719270533.346193
 - binary_date: 1717927125.0
   bytes: 3694269
   description: VirusSign Collection 2024.06.09
@@ -1386,6 +1514,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719448168.809553
+  last_packet_ts: 1719448465.970014
 - binary_date: 1717629128.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -1408,6 +1538,8 @@
     value: trojan
   - count: 3
     value: downloader
+  first_packet_ts: 1719288355.748028
+  last_packet_ts: 1719288611.595722
 - binary_date: 1717787326.0
   bytes: 11340
   description: VirusSign Collection 2024.06.09
@@ -1432,6 +1564,8 @@
     value: downloader
   - count: 2
     value: dropper
+  first_packet_ts: 1719245479.026138
+  last_packet_ts: 1719245645.677269
 - binary_date: 1717736415.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -1454,6 +1588,8 @@
     value: downloader
   - count: 18
     value: trojan
+  first_packet_ts: 1719435328.509223
+  last_packet_ts: 1719435584.293702
 - binary_date: 1717902149.0
   bytes: 1104
   description: VirusSign Collection 2024.06.09
@@ -1474,6 +1610,8 @@
   vt_popular_threat_category:
   - count: 30
     value: trojan
+  first_packet_ts: 1719281712.508082
+  last_packet_ts: 1719281713.410582
 - binary_date: 1717899073.0
   bytes: 3597770
   description: VirusSign Collection 2024.06.09
@@ -1498,6 +1636,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719440096.492982
+  last_packet_ts: 1719440399.007285
 - binary_date: 1717789601.0
   bytes: 1042108
   description: VirusSign Collection 2024.06.09
@@ -1520,6 +1660,8 @@
     value: trojan
   - count: 3
     value: downloader
+  first_packet_ts: 1719247326.742033
+  last_packet_ts: 1719247613.403171
 - binary_date: 1717691795.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -1542,6 +1684,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719356553.879111
+  last_packet_ts: 1719356809.709823
 - binary_date: 1717966262.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -1564,6 +1708,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719352428.479685
+  last_packet_ts: 1719352684.556411
 - binary_date: 1717717671.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -1586,6 +1732,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719273852.449026
+  last_packet_ts: 1719274108.278196
 - binary_date: 1717694396.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -1608,6 +1756,8 @@
     value: trojan
   - count: 17
     value: downloader
+  first_packet_ts: 1719279118.771273
+  last_packet_ts: 1719279374.48849
 - binary_date: 1717739859.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -1630,6 +1780,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719388123.506222
+  last_packet_ts: 1719388379.998782
 - binary_date: 1717971454.0
   bytes: 10781
   description: VirusSign Collection 2024.06.09
@@ -1652,6 +1804,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719259465.131135
+  last_packet_ts: 1719259473.584501
 - binary_date: 1717995943.0
   bytes: 654
   description: VirusSign Collection 2024.06.09
@@ -1676,6 +1830,8 @@
     value: downloader
   - count: 5
     value: dropper
+  first_packet_ts: 1719509318.563886
+  last_packet_ts: 1719509318.740899
 - binary_date: 1717709884.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -1698,6 +1854,8 @@
     value: trojan
   - count: 15
     value: downloader
+  first_packet_ts: 1719254594.699982
+  last_packet_ts: 1719254850.711815
 - binary_date: 1717964741.0
   bytes: 100
   description: VirusSign Collection 2024.06.09
@@ -1720,6 +1878,8 @@
     value: trojan
   - count: 2
     value: virus
+  first_packet_ts: 1719305264.035231
+  last_packet_ts: 1719305264.035231
 - binary_date: 1717090698.0
   bytes: 8958
   description: VirusSign Collection 2024.06.09
@@ -1740,6 +1900,8 @@
   vt_popular_threat_category:
   - count: 5
     value: trojan
+  first_packet_ts: 1719431278.288181
+  last_packet_ts: 1719431554.442188
 - binary_date: 1717696520.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -1762,6 +1924,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719319453.342304
+  last_packet_ts: 1719319709.554937
 - binary_date: 1717720800.0
   bytes: 226651
   description: VirusSign Collection 2024.06.09
@@ -1786,6 +1950,8 @@
     value: downloader
   - count: 6
     value: ransomware
+  first_packet_ts: 1719250179.747789
+  last_packet_ts: 1719250181.275306
 - binary_date: 1717728012.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -1808,6 +1974,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719373759.626191
+  last_packet_ts: 1719374015.542418
 - binary_date: 1717808244.0
   bytes: 3453295
   description: VirusSign Collection 2024.06.09
@@ -1832,6 +2000,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719421881.486987
+  last_packet_ts: 1719422178.377335
 - binary_date: 1717611865.0
   bytes: 36293
   description: VirusSign Collection 2024.06.09
@@ -1854,6 +2024,8 @@
     value: trojan
   - count: 2
     value: dropper
+  first_packet_ts: 1719273828.509216
+  last_packet_ts: 1719274069.388885
 - binary_date: 1717741099.0
   bytes: 2095
   description: VirusSign Collection 2024.06.09
@@ -1876,6 +2048,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719405397.957844
+  last_packet_ts: 1719405654.124858
 - binary_date: 1717806420.0
   bytes: 266094
   description: VirusSign Collection 2024.06.09
@@ -1898,6 +2072,8 @@
     value: trojan
   - count: 2
     value: pua
+  first_packet_ts: 1719264214.407013
+  last_packet_ts: 1719264475.796176
 - binary_date: 1717731097.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -1920,6 +2096,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719366749.359309
+  last_packet_ts: 1719367004.803614
 - binary_date: 1718032628.0
   bytes: 3061648
   description: VirusSign Collection 2024.06.09
@@ -1944,6 +2122,8 @@
     value: pua
   - count: 2
     value: trojan
+  first_packet_ts: 1719483361.36172
+  last_packet_ts: 1719483474.056493
 - binary_date: 1717902727.0
   bytes: 4344199
   description: VirusSign Collection 2024.06.09
@@ -1968,6 +2148,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719355248.599845
+  last_packet_ts: 1719355545.526352
 - binary_date: 1717994599.0
   bytes: 87428
   description: VirusSign Collection 2024.06.09
@@ -1990,6 +2172,8 @@
     value: trojan
   - count: 3
     value: dropper
+  first_packet_ts: 1719246414.963045
+  last_packet_ts: 1719246702.043621
 - binary_date: 1717681076.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2012,6 +2196,8 @@
     value: trojan
   - count: 17
     value: downloader
+  first_packet_ts: 1719287576.286588
+  last_packet_ts: 1719287831.923059
 - binary_date: 0
   bytes: 112417
   description: VirusSign Collection 2024.06.09
@@ -2024,6 +2210,8 @@
   trace_generation_time: 1719521676.5815966
   trace_name: Unknown
   trace_uri: traces/virussign.com_11b602eb199855510615045d480beb3f.pcap
+  first_packet_ts: 1719377626.362902
+  last_packet_ts: 1719377713.184589
 - binary_date: 1717964741.0
   bytes: 100
   description: VirusSign Collection 2024.06.09
@@ -2046,6 +2234,8 @@
     value: trojan
   - count: 2
     value: virus
+  first_packet_ts: 1719478143.297051
+  last_packet_ts: 1719478143.297051
 - binary_date: 1717743119.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2068,6 +2258,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719317007.256693
+  last_packet_ts: 1719317263.780637
 - binary_date: 1717619139.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2090,6 +2282,8 @@
     value: trojan
   - count: 3
     value: downloader
+  first_packet_ts: 1719357659.986908
+  last_packet_ts: 1719357915.899969
 - binary_date: 1382121226.0
   bytes: 2212
   description: VirusSign Collection 2024.06.09
@@ -2112,6 +2306,8 @@
     value: adware
   - count: 2
     value: virus
+  first_packet_ts: 1719267621.813423
+  last_packet_ts: 1719267681.903869
 - binary_date: 1717994826.0
   bytes: 29945
   description: VirusSign Collection 2024.06.09
@@ -2132,6 +2328,8 @@
   vt_popular_threat_category:
   - count: 32
     value: trojan
+  first_packet_ts: 1719381182.334945
+  last_packet_ts: 1719381183.510342
 - binary_date: 1718031736.0
   bytes: 3301797
   description: VirusSign Collection 2024.06.09
@@ -2156,6 +2354,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719244961.371036
+  last_packet_ts: 1719245256.925703
 - binary_date: 1717728120.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2178,6 +2378,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719262254.394709
+  last_packet_ts: 1719262510.226202
 - binary_date: 1717981669.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -2200,6 +2402,8 @@
     value: trojan
   - count: 13
     value: downloader
+  first_packet_ts: 1719298573.025071
+  last_packet_ts: 1719298828.947546
 - binary_date: 0
   bytes: 852757
   description: VirusSign Collection 2024.06.09
@@ -2212,6 +2416,8 @@
   trace_generation_time: 1719521755.8620217
   trace_name: Unknown
   trace_uri: traces/virussign.com_2bda610f472ac7e4f8e7beec2a291958.pcap
+  first_packet_ts: 1719390600.106144
+  last_packet_ts: 1719390685.153266
 - binary_date: 1717738565.0
   bytes: 844
   description: VirusSign Collection 2024.06.09
@@ -2232,6 +2438,8 @@
   vt_popular_threat_category:
   - count: 32
     value: trojan
+  first_packet_ts: 1719365968.161489
+  last_packet_ts: 1719366184.241682
 - binary_date: 1717971006.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2254,6 +2462,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719289910.445351
+  last_packet_ts: 1719290166.162474
 - binary_date: 1717616871.0
   bytes: 844
   description: VirusSign Collection 2024.06.09
@@ -2274,6 +2484,8 @@
   vt_popular_threat_category:
   - count: 30
     value: trojan
+  first_packet_ts: 1719246132.667881
+  last_packet_ts: 1719246348.733944
 - binary_date: 1717689195.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2296,6 +2508,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719460861.722912
+  last_packet_ts: 1719461117.662883
 - binary_date: 1717727558.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2318,6 +2532,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719288744.173292
+  last_packet_ts: 1719289000.022272
 - binary_date: 1717965132.0
   bytes: 508
   description: VirusSign Collection 2024.06.09
@@ -2342,6 +2558,8 @@
     value: downloader
   - count: 4
     value: dropper
+  first_packet_ts: 1719424760.981564
+  last_packet_ts: 1719424761.25044
 - binary_date: 1717903667.0
   bytes: 6624
   description: VirusSign Collection 2024.06.09
@@ -2366,6 +2584,8 @@
     value: dropper
   - count: 2
     value: pua
+  first_packet_ts: 1719279507.869221
+  last_packet_ts: 1719279793.969256
 - binary_date: 1717707205.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -2388,6 +2608,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719335507.730477
+  last_packet_ts: 1719335763.544249
 - binary_date: 1717916157.0
   bytes: 4312983
   description: VirusSign Collection 2024.06.09
@@ -2410,6 +2632,8 @@
     value: trojan
   - count: 2
     value: downloader
+  first_packet_ts: 1719322358.7239
+  last_packet_ts: 1719322399.225572
 - binary_date: 1717749677.0
   bytes: 16481
   description: VirusSign Collection 2024.06.09
@@ -2432,6 +2656,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719241160.558584
+  last_packet_ts: 1719241179.274297
 - binary_date: 1717984509.0
   bytes: 2095
   description: VirusSign Collection 2024.06.09
@@ -2454,6 +2680,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719394660.277401
+  last_packet_ts: 1719394915.983613
 - binary_date: 1717935937.0
   bytes: 12572
   description: VirusSign Collection 2024.06.09
@@ -2476,6 +2704,8 @@
     value: trojan
   - count: 2
     value: pua
+  first_packet_ts: 1719257660.630821
+  last_packet_ts: 1719257660.945868
 - binary_date: 1717968940.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -2498,6 +2728,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719331974.99567
+  last_packet_ts: 1719332230.977064
 - binary_date: 1717880283.0
   bytes: 2812
   description: VirusSign Collection 2024.06.09
@@ -2522,6 +2754,8 @@
     value: miner
   - count: 3
     value: pua
+  first_packet_ts: 1719450848.803155
+  last_packet_ts: 1719451013.012758
 - binary_date: 1717700956.0
   bytes: 2095
   description: VirusSign Collection 2024.06.09
@@ -2544,6 +2778,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719239830.099116
+  last_packet_ts: 1719240085.859259
 - binary_date: 1717482682.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -2566,6 +2802,8 @@
     value: trojan
   - count: 9
     value: downloader
+  first_packet_ts: 1719452346.552218
+  last_packet_ts: 1719452602.246429
 - binary_date: 1717994524.0
   bytes: 7741
   description: VirusSign Collection 2024.06.09
@@ -2588,6 +2826,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719307369.408206
+  last_packet_ts: 1719307414.291408
 - binary_date: 1717904014.0
   bytes: 8959
   description: VirusSign Collection 2024.06.09
@@ -2610,6 +2850,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719349397.96902
+  last_packet_ts: 1719349451.657194
 - binary_date: 1717895535.0
   bytes: 19867
   description: VirusSign Collection 2024.06.09
@@ -2634,6 +2876,8 @@
     value: banker
   - count: 2
     value: downloader
+  first_packet_ts: 1719436535.817918
+  last_packet_ts: 1719436779.28885
 - binary_date: 1717728754.0
   bytes: 25121701
   description: VirusSign Collection 2024.06.09
@@ -2658,6 +2902,8 @@
     value: worm
   - count: 2
     value: banker
+  first_packet_ts: 1719288346.541883
+  last_packet_ts: 1719288639.897313
 - binary_date: 1717928384.0
   bytes: 2360
   description: VirusSign Collection 2024.06.09
@@ -2678,6 +2924,8 @@
   vt_popular_threat_category:
   - count: 33
     value: trojan
+  first_packet_ts: 1719287223.800829
+  last_packet_ts: 1719287242.925534
 - binary_date: 1717792575.0
   bytes: 17239
   description: VirusSign Collection 2024.06.09
@@ -2702,6 +2950,8 @@
     value: banker
   - count: 2
     value: downloader
+  first_packet_ts: 1719399466.274949
+  last_packet_ts: 1719399727.230505
 - binary_date: 1717903137.0
   bytes: 5510
   description: VirusSign Collection 2024.06.09
@@ -2724,6 +2974,8 @@
     value: trojan
   - count: 3
     value: virus
+  first_packet_ts: 1719304045.156465
+  last_packet_ts: 1719304155.230733
 - binary_date: 1717710500.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -2746,6 +2998,8 @@
     value: trojan
   - count: 17
     value: downloader
+  first_packet_ts: 1719339002.826534
+  last_packet_ts: 1719339258.747314
 - binary_date: 1717916934.0
   bytes: 844
   description: VirusSign Collection 2024.06.09
@@ -2766,6 +3020,8 @@
   vt_popular_threat_category:
   - count: 26
     value: trojan
+  first_packet_ts: 1719393870.420914
+  last_packet_ts: 1719394086.488739
 - binary_date: 1717925669.0
   bytes: 4200115
   description: VirusSign Collection 2024.06.09
@@ -2790,6 +3046,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719391502.982927
+  last_packet_ts: 1719391798.820678
 - binary_date: 1717953942.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2812,6 +3070,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719456401.719943
+  last_packet_ts: 1719456660.394737
 - binary_date: 1717793885.0
   bytes: 14065
   description: VirusSign Collection 2024.06.09
@@ -2836,6 +3096,8 @@
     value: banker
   - count: 2
     value: downloader
+  first_packet_ts: 1719240705.784444
+  last_packet_ts: 1719240961.825454
 - binary_date: 0
   bytes: 5348099
   description: VirusSign Collection 2024.06.09
@@ -2848,6 +3110,8 @@
   trace_generation_time: 1719522060.7676556
   trace_name: Unknown
   trace_uri: traces/virussign.com_6e1ad628df7d07e1d5dc127dfddd217b.vir.pcap
+  first_packet_ts: 1719283807.69095
+  last_packet_ts: 1719284021.397304
 - binary_date: 1717899016.0
   bytes: 33795
   description: VirusSign Collection 2024.06.09
@@ -2870,6 +3134,8 @@
     value: trojan
   - count: 15
     value: downloader
+  first_packet_ts: 1719282609.859583
+  last_packet_ts: 1719282610.60634
 - binary_date: 1717918560.0
   bytes: 524
   description: VirusSign Collection 2024.06.09
@@ -2892,6 +3158,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719394547.011984
+  last_packet_ts: 1719394547.282203
 - binary_date: 1717900975.0
   bytes: 3058
   description: VirusSign Collection 2024.06.09
@@ -2916,6 +3184,8 @@
     value: miner
   - count: 3
     value: dropper
+  first_packet_ts: 1719248606.957524
+  last_packet_ts: 1719248790.578619
 - binary_date: 1717743738.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -2938,6 +3208,8 @@
     value: trojan
   - count: 12
     value: downloader
+  first_packet_ts: 1719239453.550973
+  last_packet_ts: 1719239709.413199
 - binary_date: 1718015683.0
   bytes: 8695130
   description: VirusSign Collection 2024.06.09
@@ -2958,6 +3230,8 @@
   vt_popular_threat_category:
   - count: 4
     value: adware
+  first_packet_ts: 1719266967.375199
+  last_packet_ts: 1719266976.680161
 - binary_date: 1717965368.0
   bytes: 83502
   description: VirusSign Collection 2024.06.09
@@ -2980,6 +3254,8 @@
     value: trojan
   - count: 9
     value: downloader
+  first_packet_ts: 1719431682.770691
+  last_packet_ts: 1719431684.702994
 - binary_date: 1717793129.0
   bytes: 4246891
   description: VirusSign Collection 2024.06.09
@@ -3004,6 +3280,8 @@
     value: trojan
   - count: 5
     value: pua
+  first_packet_ts: 1719403349.823311
+  last_packet_ts: 1719403645.031721
 - binary_date: 1717817333.0
   bytes: 3072
   description: VirusSign Collection 2024.06.09
@@ -3024,6 +3302,8 @@
   vt_popular_threat_category:
   - count: 23
     value: trojan
+  first_packet_ts: 1719282204.522768
+  last_packet_ts: 1719282475.150015
 - binary_date: 1717931547.0
   bytes: 13178
   description: VirusSign Collection 2024.06.09
@@ -3046,6 +3326,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719418405.69198
+  last_packet_ts: 1719418491.59438
 - binary_date: 1717894511.0
   bytes: 87841
   description: VirusSign Collection 2024.06.09
@@ -3068,6 +3350,8 @@
     value: trojan
   - count: 4
     value: dropper
+  first_packet_ts: 1719280272.582768
+  last_packet_ts: 1719280562.944526
 - binary_date: 1717902607.0
   bytes: 4901
   description: VirusSign Collection 2024.06.09
@@ -3092,6 +3376,8 @@
     value: trojan
   - count: 3
     value: dropper
+  first_packet_ts: 1719274453.718702
+  last_packet_ts: 1719274470.847448
 - binary_date: 1717953397.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -3114,6 +3400,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719418642.239769
+  last_packet_ts: 1719418897.959979
 - binary_date: 1717882970.0
   bytes: 671405
   description: VirusSign Collection 2024.06.09
@@ -3136,6 +3424,8 @@
     value: virus
   - count: 4
     value: trojan
+  first_packet_ts: 1719410887.516087
+  last_packet_ts: 1719411185.836281
 - binary_date: 1717704189.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -3158,6 +3448,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719288372.038733
+  last_packet_ts: 1719288627.854161
 - binary_date: 1717879252.0
   bytes: 3850655
   description: VirusSign Collection 2024.06.09
@@ -3182,6 +3474,8 @@
     value: trojan
   - count: 2
     value: hacktool
+  first_packet_ts: 1719240761.64449
+  last_packet_ts: 1719241057.155162
 - binary_date: 1717701220.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -3204,6 +3498,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719271033.583477
+  last_packet_ts: 1719271289.226634
 - binary_date: 1717672870.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -3226,6 +3522,8 @@
     value: trojan
   - count: 3
     value: downloader
+  first_packet_ts: 1719244489.002089
+  last_packet_ts: 1719244744.900647
 - binary_date: 1717900252.0
   bytes: 822
   description: VirusSign Collection 2024.06.09
@@ -3250,6 +3548,8 @@
     value: downloader
   - count: 3
     value: dropper
+  first_packet_ts: 1719260290.532371
+  last_packet_ts: 1719260291.183498
 - binary_date: 1717996593.0
   bytes: 922
   description: VirusSign Collection 2024.06.09
@@ -3272,6 +3572,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719450349.119933
+  last_packet_ts: 1719450381.927808
 - binary_date: 1717727180.0
   bytes: 7402
   description: VirusSign Collection 2024.06.09
@@ -3296,6 +3598,8 @@
     value: hacktool
   - count: 2
     value: virus
+  first_packet_ts: 1719439303.931742
+  last_packet_ts: 1719439324.563682
 - binary_date: 1717881661.0
   bytes: 1200869
   description: VirusSign Collection 2024.06.09
@@ -3318,6 +3622,8 @@
     value: virus
   - count: 3
     value: trojan
+  first_packet_ts: 1719280221.590424
+  last_packet_ts: 1719280514.707069
 - binary_date: 1717902665.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -3340,6 +3646,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719414600.273893
+  last_packet_ts: 1719414856.377629
 - binary_date: 1717903107.0
   bytes: 8806
   description: VirusSign Collection 2024.06.09
@@ -3362,6 +3670,8 @@
     value: trojan
   - count: 5
     value: worm
+  first_packet_ts: 1719256507.192461
+  last_packet_ts: 1719256800.354247
 - binary_date: 1717591025.0
   bytes: 2095
   description: VirusSign Collection 2024.06.09
@@ -3384,6 +3694,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719258023.128964
+  last_packet_ts: 1719258279.209246
 - binary_date: 1717786326.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -3406,6 +3718,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719451125.885787
+  last_packet_ts: 1719451381.849607
 - binary_date: 1717702840.0
   bytes: 2207441
   description: VirusSign Collection 2024.06.09
@@ -3426,6 +3740,8 @@
   vt_popular_threat_category:
   - count: 27
     value: trojan
+  first_packet_ts: 1719310728.435666
+  last_packet_ts: 1719311013.947405
 - binary_date: 1717807849.0
   bytes: 1235651
   description: VirusSign Collection 2024.06.09
@@ -3448,6 +3764,8 @@
     value: virus
   - count: 3
     value: trojan
+  first_packet_ts: 1719279420.72876
+  last_packet_ts: 1719279717.571694
 - binary_date: 1717787292.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -3470,6 +3788,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719421492.15911
+  last_packet_ts: 1719421747.629879
 - binary_date: 1717730792.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -3492,6 +3812,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719279426.709398
+  last_packet_ts: 1719279682.239858
 - binary_date: 1717735508.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -3514,6 +3836,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719284387.056154
+  last_packet_ts: 1719284642.679029
 - binary_date: 1717789603.0
   bytes: 844
   description: VirusSign Collection 2024.06.09
@@ -3534,6 +3858,8 @@
   vt_popular_threat_category:
   - count: 29
     value: trojan
+  first_packet_ts: 1719239155.110537
+  last_packet_ts: 1719239371.177481
 - binary_date: 1717893638.0
   bytes: 1341
   description: VirusSign Collection 2024.06.09
@@ -3556,6 +3882,8 @@
     value: trojan
   - count: 6
     value: worm
+  first_packet_ts: 1719326692.687899
+  last_packet_ts: 1719326693.545951
 - binary_date: 1717916932.0
   bytes: 844
   description: VirusSign Collection 2024.06.09
@@ -3576,6 +3904,8 @@
   vt_popular_threat_category:
   - count: 32
     value: trojan
+  first_packet_ts: 1719302917.547311
+  last_packet_ts: 1719303133.609691
 - binary_date: 1717727404.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -3598,6 +3928,8 @@
     value: trojan
   - count: 19
     value: downloader
+  first_packet_ts: 1719254950.543419
+  last_packet_ts: 1719255206.576965
 - binary_date: 1717738094.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -3620,6 +3952,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719275474.880873
+  last_packet_ts: 1719275730.90828
 - binary_date: 1717693172.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -3642,6 +3976,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719340977.624905
+  last_packet_ts: 1719341233.569986
 - binary_date: 1717927040.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -3664,6 +4000,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719333503.597924
+  last_packet_ts: 1719333759.454962
 - binary_date: 1717965132.0
   bytes: 17882
   description: VirusSign Collection 2024.06.09
@@ -3688,6 +4026,8 @@
     value: downloader
   - count: 4
     value: dropper
+  first_packet_ts: 1719488171.266952
+  last_packet_ts: 1719488172.142537
 - binary_date: 1717952436.0
   bytes: 49292
   description: VirusSign Collection 2024.06.09
@@ -3710,6 +4050,8 @@
     value: trojan
   - count: 2
     value: dropper
+  first_packet_ts: 1719512111.166574
+  last_packet_ts: 1719512398.952867
 - binary_date: 0
   bytes: 856153
   description: VirusSign Collection 2024.06.09
@@ -3722,6 +4064,8 @@
   trace_generation_time: 1719521756.2860239
   trace_name: Unknown
   trace_uri: traces/virussign.com_2bda610f472ac7e4f8e7beec2a291958.vir.pcap
+  first_packet_ts: 1719476131.643782
+  last_packet_ts: 1719476217.053737
 - binary_date: 1717792705.0
   bytes: 21481
   description: VirusSign Collection 2024.06.09
@@ -3746,6 +4090,8 @@
     value: banker
   - count: 2
     value: downloader
+  first_packet_ts: 1719458044.016437
+  last_packet_ts: 1719458307.879598
 - binary_date: 1717740987.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -3768,6 +4114,8 @@
     value: trojan
   - count: 17
     value: downloader
+  first_packet_ts: 1719262783.922382
+  last_packet_ts: 1719263039.71722
 - binary_date: 1717856168.0
   bytes: 100
   description: VirusSign Collection 2024.06.09
@@ -3792,6 +4140,8 @@
     value: virus
   - count: 3
     value: banker
+  first_packet_ts: 1719246522.042559
+  last_packet_ts: 1719246522.042559
 - binary_date: 1717734313.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -3814,6 +4164,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719351659.606431
+  last_packet_ts: 1719351915.49422
 - binary_date: 1717881979.0
   bytes: 3007539
   description: VirusSign Collection 2024.06.09
@@ -3836,6 +4188,8 @@
     value: pua
   - count: 3
     value: hacktool
+  first_packet_ts: 1719251883.892364
+  last_packet_ts: 1719251996.022032
 - binary_date: 1717895743.0
   bytes: 3737625
   description: VirusSign Collection 2024.06.09
@@ -3860,6 +4214,8 @@
     value: trojan
   - count: 5
     value: pua
+  first_packet_ts: 1719444880.736998
+  last_packet_ts: 1719445177.710943
 - binary_date: 1717738800.0
   bytes: 278
   description: VirusSign Collection 2024.06.09
@@ -3882,6 +4238,8 @@
     value: downloader
   - count: 8
     value: trojan
+  first_packet_ts: 1719253820.117683
+  last_packet_ts: 1719253820.295129
 - binary_date: 1717963172.0
   bytes: 1145295
   description: VirusSign Collection 2024.06.09
@@ -3904,6 +4262,8 @@
     value: virus
   - count: 3
     value: trojan
+  first_packet_ts: 1719376866.728168
+  last_packet_ts: 1719377163.363272
 - binary_date: 1717723434.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -3926,6 +4286,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719367137.60644
+  last_packet_ts: 1719367393.307948
 - binary_date: 1717789473.0
   bytes: 12368
   description: VirusSign Collection 2024.06.09
@@ -3946,6 +4308,8 @@
   vt_popular_threat_category:
   - count: 26
     value: trojan
+  first_packet_ts: 1719245260.675497
+  last_packet_ts: 1719245544.117221
 - binary_date: 1717740743.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -3968,6 +4332,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719243674.473075
+  last_packet_ts: 1719243930.253127
 - binary_date: 1717996860.0
   bytes: 98884
   description: VirusSign Collection 2024.06.09
@@ -3992,6 +4358,8 @@
     value: downloader
   - count: 5
     value: trojan
+  first_packet_ts: 1719252866.420572
+  last_packet_ts: 1719252975.580747
 - binary_date: 1717730939.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -4014,6 +4382,8 @@
     value: downloader
   - count: 2
     value: trojan
+  first_packet_ts: 1719250017.682075
+  last_packet_ts: 1719250273.837099
 - binary_date: 1717784246.0
   bytes: 1742
   description: VirusSign Collection 2024.06.09
@@ -4038,6 +4408,8 @@
     value: dropper
   - count: 2
     value: pua
+  first_packet_ts: 1719284268.585601
+  last_packet_ts: 1719284408.842864
 - binary_date: 1717743624.0
   bytes: 2640
   description: VirusSign Collection 2024.06.09
@@ -4060,6 +4432,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719271434.46772
+  last_packet_ts: 1719271690.447005
 - binary_date: 1717953381.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -4082,6 +4456,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719406945.224731
+  last_packet_ts: 1719407203.222079
 - binary_date: 1717786647.0
   bytes: 1228034
   description: VirusSign Collection 2024.06.09
@@ -4104,6 +4480,8 @@
     value: trojan
   - count: 8
     value: worm
+  first_packet_ts: 1719253243.8655
+  last_packet_ts: 1719253517.836839
 - binary_date: 1717050894.0
   bytes: 720017
   description: VirusSign Collection 2024.06.09
@@ -4124,6 +4502,8 @@
   vt_popular_threat_category:
   - count: 26
     value: trojan
+  first_packet_ts: 1719269443.138586
+  last_packet_ts: 1719269713.347046
 - binary_date: 1717896310.0
   bytes: 654
   description: VirusSign Collection 2024.06.09
@@ -4146,6 +4526,8 @@
     value: trojan
   - count: 16
     value: downloader
+  first_packet_ts: 1719288516.334568
+  last_packet_ts: 1719288517.02326
 - binary_date: 1717986785.0
   bytes: 9884
   description: VirusSign Collection 2024.06.09
@@ -4168,6 +4550,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719345107.060498
+  last_packet_ts: 1719345151.608109
 - binary_date: 1717732156.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -4190,6 +4574,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719240594.023777
+  last_packet_ts: 1719240849.701673
 - binary_date: 1717908692.0
   bytes: 106
   description: VirusSign Collection 2024.06.09
@@ -4214,6 +4600,8 @@
     value: miner
   - count: 3
     value: dropper
+  first_packet_ts: 1719244136.700484
+  last_packet_ts: 1719244136.700484
 - binary_date: 1717930275.0
   bytes: 7483
   description: VirusSign Collection 2024.06.09
@@ -4236,6 +4624,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719306593.992837
+  last_packet_ts: 1719306652.078205
 - binary_date: 1717893051.0
   bytes: 18639
   description: VirusSign Collection 2024.06.09
@@ -4260,6 +4650,8 @@
     value: banker
   - count: 2
     value: downloader
+  first_packet_ts: 1719510509.71848
+  last_packet_ts: 1719510758.102756
 - binary_date: 1717739886.0
   bytes: 30405
   description: VirusSign Collection 2024.06.09
@@ -4282,6 +4674,8 @@
     value: trojan
   - count: 2
     value: spyware
+  first_packet_ts: 1719268979.341519
+  last_packet_ts: 1719269081.273086
 - binary_date: 1717953656.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -4304,6 +4698,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719270115.838992
+  last_packet_ts: 1719270371.47622
 - binary_date: 1717748225.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -4326,6 +4722,8 @@
     value: trojan
   - count: 11
     value: downloader
+  first_packet_ts: 1719285175.851929
+  last_packet_ts: 1719285431.749448
 - binary_date: 1717699619.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -4348,6 +4746,8 @@
     value: trojan
   - count: 17
     value: downloader
+  first_packet_ts: 1719401811.477124
+  last_packet_ts: 1719402067.404217
 - binary_date: 1717752493.0
   bytes: 2730
   description: VirusSign Collection 2024.06.09
@@ -4372,6 +4772,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719308508.051131
+  last_packet_ts: 1719308667.835386
 - binary_date: 1717904156.0
   bytes: 7744
   description: VirusSign Collection 2024.06.09
@@ -4396,6 +4798,8 @@
     value: worm
   - count: 2
     value: dropper
+  first_packet_ts: 1719345301.065188
+  last_packet_ts: 1719345594.350216
 - binary_date: 1717953381.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -4418,6 +4822,8 @@
     value: trojan
   - count: 8
     value: downloader
+  first_packet_ts: 1719476921.854531
+  last_packet_ts: 1719477177.787499
 - binary_date: 1717681845.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -4440,6 +4846,8 @@
     value: downloader
   - count: 3
     value: trojan
+  first_packet_ts: 1719378429.634542
+  last_packet_ts: 1719378685.429973
 - binary_date: 1717966879.0
   bytes: 2749
   description: VirusSign Collection 2024.06.09
@@ -4462,6 +4870,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719269903.804044
+  last_packet_ts: 1719270159.727065
 - binary_date: 1717882358.0
   bytes: 3278698
   description: VirusSign Collection 2024.06.09
@@ -4486,6 +4896,8 @@
     value: trojan
   - count: 5
     value: pua
+  first_packet_ts: 1719362327.588349
+  last_packet_ts: 1719362623.817041
 - binary_date: 1717704349.0
   bytes: 10022
   description: VirusSign Collection 2024.06.09
@@ -4508,6 +4920,8 @@
     value: trojan
   - count: 2
     value: dropper
+  first_packet_ts: 1719246398.640643
+  last_packet_ts: 1719246682.154934
 - binary_date: 1717801109.0
   bytes: 80939
   description: VirusSign Collection 2024.06.09
@@ -4528,6 +4942,8 @@
   vt_popular_threat_category:
   - count: 36
     value: trojan
+  first_packet_ts: 1719420412.318934
+  last_packet_ts: 1719420436.764174
 - binary_date: 1717722687.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -4550,6 +4966,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719269737.618786
+  last_packet_ts: 1719269993.435517
 - binary_date: 1717900978.0
   bytes: 520
   description: VirusSign Collection 2024.06.09
@@ -4574,6 +4992,8 @@
     value: downloader
   - count: 3
     value: dropper
+  first_packet_ts: 1719402983.827597
+  last_packet_ts: 1719402984.018469
 - binary_date: 1717482682.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -4596,6 +5016,8 @@
     value: trojan
   - count: 9
     value: downloader
+  first_packet_ts: 1719485767.976986
+  last_packet_ts: 1719486024.087393
 - binary_date: 1717793535.0
   bytes: 4375728
   description: VirusSign Collection 2024.06.09
@@ -4620,6 +5042,8 @@
     value: trojan
   - count: 4
     value: pua
+  first_packet_ts: 1719385253.510151
+  last_packet_ts: 1719385548.327079
 - binary_date: 1717935932.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -4642,6 +5066,8 @@
     value: trojan
   - count: 6
     value: downloader
+  first_packet_ts: 1719335890.494452
+  last_packet_ts: 1719336146.019606
 - binary_date: 1717710134.0
   bytes: 434
   description: VirusSign Collection 2024.06.09
@@ -4662,6 +5088,8 @@
   vt_popular_threat_category:
   - count: 4
     value: trojan
+  first_packet_ts: 1719397015.149466
+  last_packet_ts: 1719397030.187574
 - binary_date: 1717706498.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -4684,6 +5112,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719267915.245617
+  last_packet_ts: 1719268170.870351
 - binary_date: 1717737855.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -4706,6 +5136,8 @@
     value: trojan
   - count: 5
     value: downloader
+  first_packet_ts: 1719458819.660504
+  last_packet_ts: 1719459075.368044
 - binary_date: 1717620374.0
   bytes: 2422
   description: VirusSign Collection 2024.06.09
@@ -4728,6 +5160,8 @@
     value: trojan
   - count: 3
     value: downloader
+  first_packet_ts: 1719356881.553351
+  last_packet_ts: 1719357137.490848
 - binary_date: 1717681183.0
   bytes: 299
   description: VirusSign Collection 2024.06.09
@@ -4752,6 +5186,8 @@
     value: adware
   - count: 3
     value: downloader
+  first_packet_ts: 1719276695.099544
+  last_packet_ts: 1719276695.533252
 - binary_date: 1717971057.0
   bytes: 1986
   description: VirusSign Collection 2024.06.09
@@ -4774,6 +5210,8 @@
     value: trojan
   - count: 7
     value: downloader
+  first_packet_ts: 1719302532.865698
+  last_packet_ts: 1719302789.31099
 - binary_date: 1717698054.0
   bytes: 2531
   description: VirusSign Collection 2024.06.09
@@ -4796,6 +5234,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719290747.549249
+  last_packet_ts: 1719291003.267196
 - binary_date: 1717998158.0
   bytes: 9347
   description: VirusSign Collection 2024.06.09
@@ -4818,6 +5258,8 @@
     value: trojan
   - count: 7
     value: dropper
+  first_packet_ts: 1719338982.205864
+  last_packet_ts: 1719338999.694636
 - binary_date: 1717998692.0
   bytes: 2074
   description: VirusSign Collection 2024.06.09
@@ -4842,6 +5284,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719269536.486915
+  last_packet_ts: 1719269656.295241
 - binary_date: 1717893331.0
   bytes: 957335
   description: VirusSign Collection 2024.06.09
@@ -4864,6 +5308,8 @@
     value: virus
   - count: 3
     value: trojan
+  first_packet_ts: 1719321835.349712
+  last_packet_ts: 1719322134.91939
 - binary_date: 1717693622.0
   bytes: 2313
   description: VirusSign Collection 2024.06.09
@@ -4886,6 +5332,8 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719511266.929847
+  last_packet_ts: 1719511522.631323
 - binary_date: 1717704198.0
   bytes: 2204
   description: VirusSign Collection 2024.06.09
@@ -4908,6 +5356,8 @@
     value: trojan
   - count: 18
     value: downloader
+  first_packet_ts: 1719492630.198803
+  last_packet_ts: 1719492886.454863
 - binary_date: 1717733102.0
   bytes: 11491510
   description: VirusSign Collection 2024.06.09
@@ -4930,3 +5380,5 @@
     value: trojan
   - count: 4
     value: downloader
+  first_packet_ts: 1719449411.252772
+  last_packet_ts: 1719449713.772012
