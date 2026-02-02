@@ -12,7 +12,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 4
-  sha256: 6d5746d1b4fbe200c934bd901954c5101db7bc25c0103b5c6e8e278c4b69c755
+  trace_sha256: 5e94bc0a55461ee1d79dba038f7adf9641f7aa256ddb56078f734ef97e356111
+  binary_sha256: 6d5746d1b4fbe200c934bd901954c5101db7bc25c0103b5c6e8e278c4b69c755
   trace_generation_time: 1719521749.6539884
   trace_name: trojan.deepscan/dialer
   trace_uri: traces/virussign.com_29ea099e484dd17234ab63098b5ba6d0.vir.pcap
@@ -36,7 +37,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 4742c3049957270612624f673ce6a762cdaf012e694670a15f3c8d8e3d3abdca
+  trace_sha256: b4d36fbfbac1e3172dbd831ef88525a1c5db84dbb1fb492623575bb16782b419
+  binary_sha256: 4742c3049957270612624f673ce6a762cdaf012e694670a15f3c8d8e3d3abdca
   trace_generation_time: 1719521634.9653735
   trace_name: trojan.zusy/pmnlv
   trace_uri: traces/virussign.com_037ee64116d8244e4b7399e5f5fe8b8b.pcap
@@ -60,7 +62,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: f5149f0adb0fd5cc6e30a7dc686932c45d1368dff69b76f8650a0cfaf851f44c
+  trace_sha256: aff8d34e879c3737b3de55144a1ff7e3d517b55b69cfc407885d051c7cc9c9fb
+  binary_sha256: f5149f0adb0fd5cc6e30a7dc686932c45d1368dff69b76f8650a0cfaf851f44c
   trace_generation_time: 1719521781.886161
   trace_name: trojan.zusy/r03bc0df724
   trace_uri: traces/virussign.com_33c9864a1d2dafcdd86a956ac52bd3d8.pcap
@@ -84,7 +87,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 19
-  sha256: 06571421ff41c0bc99fc43099a87cc8d850230b4b2b97634cb4efb448a2b1eeb
+  trace_sha256: 430e084a4b56718a04fbfe766d73eb5d0204efc543317c1ebbdc4b98f38c55f3
+  binary_sha256: 06571421ff41c0bc99fc43099a87cc8d850230b4b2b97634cb4efb448a2b1eeb
   trace_generation_time: 1719521649.4374511
   trace_name: trojan.zusy/nfccq
   trace_uri: traces/virussign.com_0865da2e9d3e3c1dafc759ea2a6ce29f.vir.pcap
@@ -108,7 +112,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 22
-  sha256: 4cf7885646e6012152a6623fb3001ff2cfb0a606852c19ed5327d513b283d4f3
+  trace_sha256: 3d93a2a1bace5630f61d9f648380aac50d655708c2edc38c8a3b4a8367585fb9
+  binary_sha256: 4cf7885646e6012152a6623fb3001ff2cfb0a606852c19ed5327d513b283d4f3
   trace_generation_time: 1719522088.7278054
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_795ef69ec9b747935edc46bacd7f9687.vir.pcap
@@ -132,7 +137,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: c41b98abda1c6999de8617d8c27bba776eab1605a9c165f16fab9ed6e97dcc03
+  trace_sha256: 74d5a967d68ec57fb82020ab187809a6a1e12bb266fe4de2b3f15298e4c392ce
+  binary_sha256: c41b98abda1c6999de8617d8c27bba776eab1605a9c165f16fab9ed6e97dcc03
   trace_generation_time: 1719521712.1417873
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_1d6b73e99eb8875676e4a45237f3bf4a.pcap
@@ -156,7 +162,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 77
-  sha256: 14daae75012746ca72becc987821133ed70eb8924c905ea8150650daed3b1fe2
+  trace_sha256: 5136a5cfff97a083e7e1dcab7913bd34cd4fa07d480c1b68efbc64669c59c758
+  binary_sha256: 14daae75012746ca72becc987821133ed70eb8924c905ea8150650daed3b1fe2
   trace_generation_time: 1719521750.7379942
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_2a07603cff28464f703049dbf2fe8bb9.pcap
@@ -180,7 +187,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 75
-  sha256: 6a1ce8af18b7cff31c92399bc4125cb5a0b24e80855390564c3a9a1e58e63ed2
+  trace_sha256: c181053b15a1e3854b954d11b33d0e7a280c9d1071d19e86da926b3c0fbaa28d
+  binary_sha256: 6a1ce8af18b7cff31c92399bc4125cb5a0b24e80855390564c3a9a1e58e63ed2
   trace_generation_time: 1719521665.9735398
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_0d8cd9b0c3da02d535664646b7ea478a.vir.pcap
@@ -206,7 +214,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 7
-  sha256: d74ab321a5c31a816749c2a041b43e5e13fb210aaff3f68d50ee994bedf55e2c
+  trace_sha256: ab2ae15c4bf513deacd8f2da7127e45c927cd03b1d18f503bb60784145d21382
+  binary_sha256: d74ab321a5c31a816749c2a041b43e5e13fb210aaff3f68d50ee994bedf55e2c
   trace_generation_time: 1719521687.653656
   trace_name: trojan.pornoasset/qqpass
   trace_uri: traces/virussign.com_1573522cedaa4d648a63f5d4b4626ea5.vir.pcap
@@ -230,7 +239,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 111
-  sha256: 2ec5049f268789afb2c350939c0f9aadf69bf609d39ba36620bb3d0b39ada31d
+  trace_sha256: 5b3536d93c6e8a21d07957a0e8d00f681b19c464ffc290d6b2696c866ddffa0d
+  binary_sha256: 2ec5049f268789afb2c350939c0f9aadf69bf609d39ba36620bb3d0b39ada31d
   trace_generation_time: 1719522069.1557004
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_706de487fc2178693bbfcc57b4f57c93.vir.pcap
@@ -256,7 +266,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 0c9e0468b6049bd27b72a5e62f87c93796dea1a6ddc6bda07f41089926b79304
+  trace_sha256: 0493d87c9c0787f04b8f488b08b20f962da0a197f39e0741ecedd7d784657375
+  binary_sha256: 0c9e0468b6049bd27b72a5e62f87c93796dea1a6ddc6bda07f41089926b79304
   trace_generation_time: 1719521757.754032
   trace_name: trojan.zusy/jfwja
   trace_uri: traces/virussign.com_2c35ee35a39fd84976fe7db3f70e4788.pcap
@@ -280,7 +291,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 10
-  sha256: d4963ddce27f06654195e4a988b5d2c4adc2d483e05c5c7345c1bd92a1033d3b
+  trace_sha256: d4c17567488fc73ceefd05f9441b6d984a5fc48f86bff7737935b640f8722c27
+  binary_sha256: d4963ddce27f06654195e4a988b5d2c4adc2d483e05c5c7345c1bd92a1033d3b
   trace_generation_time: 1719521745.2099645
   trace_name: trojan.agentb/bvip
   trace_uri: traces/virussign.com_27e231d4af0cb1e59fb167a64fdf3377.vir.pcap
@@ -302,7 +314,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: e92ec3f9243648f66ea9168b7e0e599022a198ec7cf98f13220f5c304a6363ed
+  trace_sha256: 5e16ebfb77ffdbed9f95443d9887909a78c50c24587602f99d914db234d8bd71
+  binary_sha256: e92ec3f9243648f66ea9168b7e0e599022a198ec7cf98f13220f5c304a6363ed
   trace_generation_time: 1719521661.8095176
   trace_name: downloader.zusy
   trace_uri: traces/virussign.com_0bba56537258e112d8ddef6c9a8a793b.vir.pcap
@@ -326,7 +339,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 1895
-  sha256: 97025cd153103205959012a39620cb9c96d5c6ea7e7a15025e9a0d45233450d3
+  trace_sha256: e09721c07494fdc1f7c3bf0224bcadcefe078d67b0677ef2407145af4e01be68
+  binary_sha256: 97025cd153103205959012a39620cb9c96d5c6ea7e7a15025e9a0d45233450d3
   trace_generation_time: 1719521735.385912
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_24832e6534334dd5317b97a1e34d83e0.vir.pcap
@@ -352,7 +366,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 50737112dd02a5b86d457404e15fbcc87bfb7c5ba76cfb1da46c35ecf6ae3bf0
+  trace_sha256: dbd5d6321f3967c99a7c49823253d6cb2b66a316c9fb517d20b9dd53565cab09
+  binary_sha256: 50737112dd02a5b86d457404e15fbcc87bfb7c5ba76cfb1da46c35ecf6ae3bf0
   trace_generation_time: 1719521786.7421873
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_35d5ff0e50af879b500e694c9ba57073.pcap
@@ -376,7 +391,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 24
-  sha256: 1e0a669fa3530773a5072fb74f4b340ca4135407261aa4f09a3ba0b73d67a435
+  trace_sha256: a2e2d0b447eaf720f7cbb34c5b1ebf7f9451dc98c7ab98778bac7555cb5381b2
+  binary_sha256: 1e0a669fa3530773a5072fb74f4b340ca4135407261aa4f09a3ba0b73d67a435
   trace_generation_time: 1719521762.5260575
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_2d5bbcff9e1e70404faed388b96216c3.vir.pcap
@@ -400,7 +416,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 20
-  sha256: 514016e222ed2167705cfe30968d5428f8e2eaaf58046f123795c956ad7ed092
+  trace_sha256: a7aab3bf4a2765c98e92c5c851a125e8ba6fe799dff095c80d00e6a4ec447098
+  binary_sha256: 514016e222ed2167705cfe30968d5428f8e2eaaf58046f123795c956ad7ed092
   trace_generation_time: 1719522064.0796733
   trace_name: trojan.zusy/r03bc0df724
   trace_uri: traces/virussign.com_6e8e7be9c377ee4ad02d7e516fc0fed5.vir.pcap
@@ -424,7 +441,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 4458
-  sha256: 382ff534e7776f85f0f272bd1d080e74104a00b021ca46775a7e5cdcd1798967
+  trace_sha256: 20d934251c876164ef3dc6b0354619f447ba96f9e638a2715bada0c37c5f8c63
+  binary_sha256: 382ff534e7776f85f0f272bd1d080e74104a00b021ca46775a7e5cdcd1798967
   trace_generation_time: 1719522018.115427
   trace_name: virus.expiro/moiva
   trace_uri: traces/virussign.com_5cdaefe8c260ed4139671e70369ca6ed.vir.pcap
@@ -448,7 +466,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2496
-  sha256: 5d2e8d3e7f193e6fc27aed4a0ec1cbc0e21e1eddfa79ab44184a174677403211
+  trace_sha256: ed9af4b55db3b667fa44d66d461fe1d2536167804002aeb163b5b53b6c802831
+  binary_sha256: 5d2e8d3e7f193e6fc27aed4a0ec1cbc0e21e1eddfa79ab44184a174677403211
   trace_generation_time: 1719521657.9134967
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_0af9e6a85a5808d05f1f545ae0672399.pcap
@@ -474,7 +493,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: adb23281b20a7fbff36f700baa97cb3aad656ce76b7f5854ab0d6c48a20ec723
+  trace_sha256: 8ba85229d155a9b15f78b6834a92606692846176798be420e7c8bbb330ad1aa0
+  binary_sha256: adb23281b20a7fbff36f700baa97cb3aad656ce76b7f5854ab0d6c48a20ec723
   trace_generation_time: 1719521639.6813989
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_050fede3d4f3472e4e526db50efb6593.vir.pcap
@@ -498,7 +518,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 11972
-  sha256: 49831086fa8ad8d3f9f97aa8eea8d23900c13f4b74715f881c9b3e69b9829a50
+  trace_sha256: d37259eec9b0d0824b2d8f45c21ad33b62f33e33a3a5e1bdde0938de52b07c97
+  binary_sha256: 49831086fa8ad8d3f9f97aa8eea8d23900c13f4b74715f881c9b3e69b9829a50
   trace_generation_time: 1719522224.668409
   trace_name: trojan.flystudio/startpage1
   trace_uri: traces/virussign.com_c75234cc73e771b204fdde321d2a40bf.vir.pcap
@@ -524,7 +545,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2089
-  sha256: 57b12a743856878c4d421d2752825d8e90b79856b020f12eec9b409ccf6ce52c
+  trace_sha256: dbfb3acd035e9cae38bdb72b852162c928400a9ee9cecad7fbfb6714e95b3461
+  binary_sha256: 57b12a743856878c4d421d2752825d8e90b79856b020f12eec9b409ccf6ce52c
   trace_generation_time: 1719521746.6419723
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_28bbf8c3b2b1a6a82008314706c4540e.vir.pcap
@@ -550,7 +572,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 99
-  sha256: 6cb3445c810ba95bfa7cc1fb02f6d59ef30835a72edf244a42a7cb1eec3e25b6
+  trace_sha256: 4b8bac826f67022df159c238f3ddda87a1faf4a50c3d24a296c5b66a6b191ef6
+  binary_sha256: 6cb3445c810ba95bfa7cc1fb02f6d59ef30835a72edf244a42a7cb1eec3e25b6
   trace_generation_time: 1719521691.3136756
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_1643117be0fd92ff4667b0517cc557e6.vir.pcap
@@ -576,7 +599,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 46c11156e0c87fb37489d8da47e768c49e4873508e21857ed2d774b2a81ddde1
+  trace_sha256: f27d57e21c8eef3ffbcaf0b6299f4cb8e7feaac0ca4cc9e1eb01971d6d46c792
+  binary_sha256: 46c11156e0c87fb37489d8da47e768c49e4873508e21857ed2d774b2a81ddde1
   trace_generation_time: 1719521703.673742
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_1b006891e0ac0d4a85d6f91245cfc69b.vir.pcap
@@ -600,7 +624,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: fe1731592b5636a7ef0bf4a4f38f656a07ec6cad24d0d87d5de550e247526a16
+  trace_sha256: 9b2b38ef5302a9041d4243dd9ec89c1c1cabb9e385f91f214960e43694cbb988
+  binary_sha256: fe1731592b5636a7ef0bf4a4f38f656a07ec6cad24d0d87d5de550e247526a16
   trace_generation_time: 1719521671.59757
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_0fd15e9db88ae1dfbb0236bbfa6153b6.vir.pcap
@@ -624,7 +649,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 21
-  sha256: 3f7d6c77a69a96b00d45275a4aeee545d7e9f533e1552105b55d8873f682698b
+  trace_sha256: fdd9ff60bb1caee1fbf01a81472038474b8b2d70afec7bb69141a70c719fdcaf
+  binary_sha256: 3f7d6c77a69a96b00d45275a4aeee545d7e9f533e1552105b55d8873f682698b
   trace_generation_time: 1719521946.1830416
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_440fdec8c4908784fcec5382096e68b2.pcap
@@ -648,7 +674,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2073
-  sha256: 78fa5bce3a902cc0d226d78f61d38ba9d08dc1f9327b9f9c3831825c4baa154a
+  trace_sha256: bb0b4563a11d2f03971f0093332e955555bec66b4ea30f2fc64608a22889ab9e
+  binary_sha256: 78fa5bce3a902cc0d226d78f61d38ba9d08dc1f9327b9f9c3831825c4baa154a
   trace_generation_time: 1719521733.8179035
   trace_name: miner.dacic/deepscan
   trace_uri: traces/virussign.com_242281bf0994ad7fb87c0dbc3ac2bc5f.vir.pcap
@@ -674,7 +701,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 2f00ad5b9c3cedc3c91c032fdff83fcd02bf76912aecbead882900c14da7ec3f
+  trace_sha256: 1230ac09ca938aa61dff14a816f52668c7d669317d67c053a2f5c76e601cb6a3
+  binary_sha256: 2f00ad5b9c3cedc3c91c032fdff83fcd02bf76912aecbead882900c14da7ec3f
   trace_generation_time: 1719521755.2460184
   trace_name: trojan.zusy/r002c0df724
   trace_uri: traces/virussign.com_2b97ab0416f75412ffccea64e1f3bc30.pcap
@@ -698,7 +726,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 5f1f017c9fd215577b5399c691d8559ccf56606780de2772887ac49ef58fbdce
+  trace_sha256: 665596f454adbd8e93bd6a2235eec7ca703157539a4370836d91a4c4b006eef4
+  binary_sha256: 5f1f017c9fd215577b5399c691d8559ccf56606780de2772887ac49ef58fbdce
   trace_generation_time: 1719521643.241418
   trace_name: trojan.zusy/juajs
   trace_uri: traces/virussign.com_066cb3dc07ed917ab9918dd18fe27870.vir.pcap
@@ -722,7 +751,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2
-  sha256: 549f268e06a84a0e176a7ddc30cd85892fecebd4497812ff64ffc2188f1e6375
+  trace_sha256: 9faf3821b971730d6f8c0583293e7c8215f6309094f70db1eb5118d07c6dda5d
+  binary_sha256: 549f268e06a84a0e176a7ddc30cd85892fecebd4497812ff64ffc2188f1e6375
   trace_generation_time: 1719521638.1213906
   trace_name: trojan.webtoolbar/snobar
   trace_uri: traces/virussign.com_049e153e113acb6ca3a1bf150accb09f.vir.pcap
@@ -748,7 +778,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 25
-  sha256: 331f69e54854a1fe41f328f21c1007c39a2baf1f49420d5f502006febb322e36
+  trace_sha256: ff4cdcc59c1c9512e10d5af001d446ab3ee8bb1c9198a9d8975bc413a5fe48e3
+  binary_sha256: 331f69e54854a1fe41f328f21c1007c39a2baf1f49420d5f502006febb322e36
   trace_generation_time: 1719521774.8701236
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_3123d6ea786195f0069effce061c3236.pcap
@@ -772,7 +803,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 780
-  sha256: 63ae048ca0c3b037699539580d4a091980179a89543171b9df183afa233776b4
+  trace_sha256: 69c8740cac87bc8a6d3d8fded8a80f301f89be727f2dc019421d485631ad0b8c
+  binary_sha256: 63ae048ca0c3b037699539580d4a091980179a89543171b9df183afa233776b4
   trace_generation_time: 1719522259.3565614
   trace_name: trojan.hematite/agentb
   trace_uri: traces/virussign.com_dddff1d936ea9ff3a31f433cda405fba.vir.pcap
@@ -798,7 +830,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 033185e6df627252e5c6dc07583e347c6c6cc921dd06c2edb8dfd9da78f8bf41
+  trace_sha256: 0150227ec5696775e1018d82912c10ec1ed02de713169f01817c7573f4ee8268
+  binary_sha256: 033185e6df627252e5c6dc07583e347c6c6cc921dd06c2edb8dfd9da78f8bf41
   trace_generation_time: 1719521777.3341367
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_31b8490cbaccff921ed95a9f86b74245.pcap
@@ -822,7 +855,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: dcf66bdb11f1e6bd7d9876a8d4d733bad47875499ab4731111de50e7b1e37c4d
+  trace_sha256: 8307f63e0fa58ab4550ea6e628dfb5c2588da3f9272be9d3688fb3cb1edacba8
+  binary_sha256: dcf66bdb11f1e6bd7d9876a8d4d733bad47875499ab4731111de50e7b1e37c4d
   trace_generation_time: 1719521732.7018976
   trace_name: trojan.zusy/r03bc0df724
   trace_uri: traces/virussign.com_23d0adf40f57d2623e65bdd61acb724c.vir.pcap
@@ -846,7 +880,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 88
-  sha256: baf6b6dddb6c8c9c811feff2072a56eb140f3a9ee2e52ba19642818d22fd9834
+  trace_sha256: 3838e46ae7b1d8d0a96a37047a1056409e574d5233ec665e34161a4406abec30
+  binary_sha256: baf6b6dddb6c8c9c811feff2072a56eb140f3a9ee2e52ba19642818d22fd9834
   trace_generation_time: 1719521632.1573586
   trace_name: trojan.xworm/msil
   trace_uri: traces/virussign.com_027990b544d8a2576a9c2f6345907dc5.vir.pcap
@@ -868,7 +903,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 25
-  sha256: 230dbc7315c33c02304ec46b3ae81961f79d24f6ee04fa3cd1322db5ec9fa666
+  trace_sha256: 4196ca1f2c253732efbe40990e7419929fa9d6dd487016814799e670fbfa054f
+  binary_sha256: 230dbc7315c33c02304ec46b3ae81961f79d24f6ee04fa3cd1322db5ec9fa666
   trace_generation_time: 1719521653.9454753
   trace_name: trojan.zusy/icknh
   trace_uri: traces/virussign.com_0a7f05e1cecab9aa0b9c6824732f564d.vir.pcap
@@ -892,7 +928,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 10
-  sha256: db12ac847bc2d8080aa5c3f671b2b1780653f22ea58659f886c950e05115ddd7
+  trace_sha256: be92cb1ffe671afd7b72be6ebccfb415cdc672baf392f9b736ed1c42492751fb
+  binary_sha256: db12ac847bc2d8080aa5c3f671b2b1780653f22ea58659f886c950e05115ddd7
   trace_generation_time: 1719521631.869357
   trace_name: trojan.agentb/bvip
   trace_uri: traces/virussign.com_0270d43ec938cfa11e1196309de91947.pcap
@@ -914,7 +951,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 43
-  sha256: 552088f784162ce9d45c84e10938b54864d043879d98e370f3ec9b73cdaadf0f
+  trace_sha256: fd15a30d107f50834b30b0cbb6a9b9baf1eeefb52f41202d3ca985c8cd7235f3
+  binary_sha256: 552088f784162ce9d45c84e10938b54864d043879d98e370f3ec9b73cdaadf0f
   trace_generation_time: 1719521982.5712366
   trace_name: trojan.hlgxomb/drop
   trace_uri: traces/virussign.com_5253a66f795374b762cc77716b022d47.vir.pcap
@@ -940,7 +978,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 24
-  sha256: d4398ccf206c1b85980a9168be618b6dcd4bb1c8c58eacf9c88fc9a8c8b47167
+  trace_sha256: 3cd72044842205bc5a3a8e3710dfa36d090f6536066d661b27a1d674b7bf6c40
+  binary_sha256: d4398ccf206c1b85980a9168be618b6dcd4bb1c8c58eacf9c88fc9a8c8b47167
   trace_generation_time: 1719521985.463252
   trace_name: trojan.zusy/hfpiq
   trace_uri: traces/virussign.com_53d1eb9f3a17576184a8ebdc8b07dbd2.vir.pcap
@@ -964,7 +1003,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2903
-  sha256: 6ba57b9d24540a7a33523e234eb386663b77986e0351fb26dba9964a70800bfe
+  trace_sha256: a56ce6b0455eefdd80243a8d16dae16888d6d7ad59952a0bd769b9c194357e18
+  binary_sha256: 6ba57b9d24540a7a33523e234eb386663b77986e0351fb26dba9964a70800bfe
   trace_generation_time: 1719521786.3781853
   trace_name: adware.tencent
   trace_uri: traces/virussign.com_3564517fcb49ab1824dbf703d3e73c4f.pcap
@@ -986,7 +1026,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 34
-  sha256: 4b358f051e3017a53a4c6f72dc065a1ecf6e86dcdd367e30625a575179c1174a
+  trace_sha256: 21360297387f3e399aae134c8af659d04f4c3c01d1cf514abcd02887f8f7e699
+  binary_sha256: 4b358f051e3017a53a4c6f72dc065a1ecf6e86dcdd367e30625a575179c1174a
   trace_generation_time: 1719521743.5379555
   trace_name: trojan.banload/abipe
   trace_uri: traces/virussign.com_27a5a2395602672f765c43c520f83df6.vir.pcap
@@ -1012,7 +1053,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 83
-  sha256: eddccc8d0b53589906defe730a8f30a2ccdc0da0b3c72d3eaef1c9d55687cbcc
+  trace_sha256: f83ed2cb331c4f341acff1df5d0fc47f9dbb646e50f7be12c3c80785bbc6440f
+  binary_sha256: eddccc8d0b53589906defe730a8f30a2ccdc0da0b3c72d3eaef1c9d55687cbcc
   trace_generation_time: 1719521782.434164
   trace_name: trojan.zusy/injuke
   trace_uri: traces/virussign.com_340763ec7471dbb7ea5f994b93ad9edc.vir.pcap
@@ -1034,7 +1076,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 2
-  sha256: 4cb0116df33a0bfa34a9a0c291465affb39481887efc21a185e971a33e1dfe45
+  trace_sha256: cbc6338dea78310d58bc71cc18967a6cf7ddba6bb0bd0f0c868fa39dcd793142
+  binary_sha256: 4cb0116df33a0bfa34a9a0c291465affb39481887efc21a185e971a33e1dfe45
   trace_generation_time: 1719522270.0846086
   trace_name: trojan.vobfus/chinky
   trace_uri: traces/virussign.com_e5e20aa549ec6ae2215bd2ee92ad8cb9.vir.pcap
@@ -1058,7 +1101,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 82
-  sha256: 4d1808639dd088b4350e1985b228f1337519b1e484204023eec7bdfbe5a5f13f
+  trace_sha256: ebeb07a3fbbcf6c5dd16bae439681dce0805a9d1f7ed3e7a3c73253209fbc900
+  binary_sha256: 4d1808639dd088b4350e1985b228f1337519b1e484204023eec7bdfbe5a5f13f
   trace_generation_time: 1719521715.261804
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_1e4886aae29fdc8b4b3e2e393e2d1269.pcap
@@ -1082,7 +1126,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 3696
-  sha256: d61375b6def10107bb659c4b74e78b1ca6485d24c189c9c2c05bea7be9cbc4a1
+  trace_sha256: a571782e9f2b61bfeaa0f8c0d924036fe09fda12c3f31d82254733bc2feee86f
+  binary_sha256: d61375b6def10107bb659c4b74e78b1ca6485d24c189c9c2c05bea7be9cbc4a1
   trace_generation_time: 1719521692.3256812
   trace_name: virus.expiro/moiva
   trace_uri: traces/virussign.com_170ebec05c82650637724311dc2b3f65.vir.pcap
@@ -1106,7 +1151,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 96
-  sha256: c18dfa16f4b3c96e877661364a9e3d4f5b3f6a0b1289223ba5cc0806a4097945
+  trace_sha256: e521e7727a22b0b919d3fd82efc708dc59f7125c305bcc8d7397c54641b9b0d9
+  binary_sha256: c18dfa16f4b3c96e877661364a9e3d4f5b3f6a0b1289223ba5cc0806a4097945
   trace_generation_time: 1719522107.3638947
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_7fe870a41a7507c9cbc7b2d6ba6e8912.pcap
@@ -1132,7 +1178,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 26
-  sha256: a39fb18a96ab461a96b378296a82ddd1c0fff5c346c8bd97aeb7c38b3fd12280
+  trace_sha256: 5fe43a294025255e3c694206ebb3c3493237d24af383b1ee96917b8de6369a11
+  binary_sha256: a39fb18a96ab461a96b378296a82ddd1c0fff5c346c8bd97aeb7c38b3fd12280
   trace_generation_time: 1719521675.7735925
   trace_name: trojan.zusy/mifry
   trace_uri: traces/virussign.com_1172e5193fa84e2ea6868cc43a12375d.vir.pcap
@@ -1156,7 +1203,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 19
-  sha256: addf850e0662d9c6a8b1ae333edb4466d448e0f65307466004534ec282f0c28a
+  trace_sha256: 904c4e6a00fe2a8e4b21567e558f03290e23e775628436bddd99fb3521067788
+  binary_sha256: addf850e0662d9c6a8b1ae333edb4466d448e0f65307466004534ec282f0c28a
   trace_generation_time: 1719521775.694128
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_318437177a074250cf81ad9a1f74696c.vir.pcap
@@ -1180,7 +1228,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 97
-  sha256: ca1bb1d2cb46f68856f8e6bc6404cca1847075af38f3312695be55627128298e
+  trace_sha256: 32e1e62f7b54e50ae7c7882bfb4d7538fc4d1e53dbb62ea211b80f65933ab8ed
+  binary_sha256: ca1bb1d2cb46f68856f8e6bc6404cca1847075af38f3312695be55627128298e
   trace_generation_time: 1719521667.1615462
   trace_name: trojan.shiz/midie
   trace_uri: traces/virussign.com_0dcea3efb5a187252ffb61845b4adc10.vir.pcap
@@ -1206,7 +1255,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: a7252a17aa07764f5538555779832f6e15ae6254d3223a9620701d9fe1e488a6
+  trace_sha256: 11cb910d79509b716f3d0c0ddc4623d2a4b0912682bcdbb2f9493a699d6fba1a
+  binary_sha256: a7252a17aa07764f5538555779832f6e15ae6254d3223a9620701d9fe1e488a6
   trace_generation_time: 1719521760.050044
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_2ca137a1e6e6b0a1b0861ec76e0017cd.vir.pcap
@@ -1230,7 +1280,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 49
-  sha256: 36ee6a9a8811cd63ea8fd4b3bd199f9ac49c89044af2c9c2121af3ad575dcf56
+  trace_sha256: d94599d8da5592355bfb294d47e3157b863cbd6a0bbaea2f511a1c78e3201829
+  binary_sha256: 36ee6a9a8811cd63ea8fd4b3bd199f9ac49c89044af2c9c2121af3ad575dcf56
   trace_generation_time: 1719521758.2540345
   trace_name: trojan.pincav/muldrop3
   trace_uri: traces/virussign.com_2c720a05a626a654c8c49429ed75baf1.pcap
@@ -1256,7 +1307,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 47
-  sha256: 7e748423ea060b5cdf2cd19278b3b6da58480ecf8c0da21b670817416fa52c34
+  trace_sha256: ca53e6955d013ce0521501e3d561985f54146ceb45b7c0b46b0e8dd95d923453
+  binary_sha256: 7e748423ea060b5cdf2cd19278b3b6da58480ecf8c0da21b670817416fa52c34
   trace_generation_time: 1719521677.9576042
   trace_name: trojan.shiz/tdss
   trace_uri: traces/virussign.com_125a11b031bd457bd7aba9cb02785bd2.vir.pcap
@@ -1282,7 +1334,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 1020
-  sha256: 1a306f3f2b114b9f5f55f469c3952790c718da5f558227ac2bab002218d704b3
+  trace_sha256: b8069a27ea5a3e3bc3b01e6bc864f83b2f8dc09c5bf2de9e9fa03aa483106b01
+  binary_sha256: 1a306f3f2b114b9f5f55f469c3952790c718da5f558227ac2bab002218d704b3
   trace_generation_time: 1719522311.8367925
   trace_name: trojan.upatre/zbot
   trace_uri: traces/virussign.com_ffe772e5a8486b3cea2539582db63456.vir.pcap
@@ -1306,7 +1359,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 8d85dbf16cce6f92638d0ed3bc3022abb275ea01ab127e4e10f9789b21dfd408
+  trace_sha256: 2b1b8e9f7d0ecb6aab3ccfc3751190b6f286f57a9bfc9de97ef981455fe0ed22
+  binary_sha256: 8d85dbf16cce6f92638d0ed3bc3022abb275ea01ab127e4e10f9789b21dfd408
   trace_generation_time: 1719521728.7898765
   trace_name: trojan.zusy/otydp
   trace_uri: traces/virussign.com_228e0c03d3f9241273bbcd48fb8909de.pcap
@@ -1330,7 +1384,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 18
-  sha256: 49e22cb6f1a5b40bdb2f8d7961fbe0617b0501efdbf43a2df18b996f06ff34a5
+  trace_sha256: bea2fce609bf8aed59b95737bb129ee6b5fb1239f9c10b852fde0a48a1aac7d0
+  binary_sha256: 49e22cb6f1a5b40bdb2f8d7961fbe0617b0501efdbf43a2df18b996f06ff34a5
   trace_generation_time: 1719521773.278115
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_307a68e28c1b79f829cec624ced6019e.vir.pcap
@@ -1354,7 +1409,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: d5b2ee2e0a7a3f2aeb735b19755b7edbc3c99d047394cf3825823c0248eebc94
+  trace_sha256: e34245baa272d3df98e6f9b263e582baa799532ed07ea23084938afb18fc0b42
+  binary_sha256: d5b2ee2e0a7a3f2aeb735b19755b7edbc3c99d047394cf3825823c0248eebc94
   trace_generation_time: 1719521667.3775475
   trace_name: trojan.zusy/fbuay
   trace_uri: traces/virussign.com_0e1effa803ad354c13a43eedb395cb07.vir.pcap
@@ -1378,7 +1434,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 4
-  sha256: 78809b28d5d0c73ee2cc27367bced7b337f0825817f149268b99586bb1a08ee0
+  trace_sha256: 5c0325d4e281c5c7c5f55799b96506aadd8dcd0ac7ce0b9499e0a4388f5d9181
+  binary_sha256: 78809b28d5d0c73ee2cc27367bced7b337f0825817f149268b99586bb1a08ee0
   trace_generation_time: 1719521631.6693559
   trace_name: trojan.pincav/download
   trace_uri: traces/virussign.com_026aec70d7410ff79c18d606734cdb8f.vir.pcap
@@ -1404,7 +1461,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 24
-  sha256: 49e22cb6f1a5b40bdb2f8d7961fbe0617b0501efdbf43a2df18b996f06ff34a5
+  trace_sha256: 1fef8f73647cb6896ab4962a9c0905a2e1421ce675e8d12609e4ec667143a610
+  binary_sha256: 49e22cb6f1a5b40bdb2f8d7961fbe0617b0501efdbf43a2df18b996f06ff34a5
   trace_generation_time: 1719521772.9901135
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_307a68e28c1b79f829cec624ced6019e.pcap
@@ -1428,7 +1486,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 18
-  sha256: 8e07fb3a0ab8811a5dfd57e20543af435aed5c1bab2175bf9ec3be3db9e56146
+  trace_sha256: c24dd16323082a133cb678cd727d7d34d995e9519d05ff36b9b82985b86b2606
+  binary_sha256: 8e07fb3a0ab8811a5dfd57e20543af435aed5c1bab2175bf9ec3be3db9e56146
   trace_generation_time: 1719521646.1374335
   trace_name: trojan.zusy/r03bc0df624
   trace_uri: traces/virussign.com_07b77830523f4c9a6cd0cfbb3881412b.pcap
@@ -1452,7 +1511,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 3
-  sha256: 12ad4292f86d40424e3cf64797bf902b08d4b0c4409a1110d527361a7b7a05ee
+  trace_sha256: 0559396bd0f2babb656d6a681beab81ed7e13bf3b0c8026b26c4eee8a4d58a19
+  binary_sha256: 12ad4292f86d40424e3cf64797bf902b08d4b0c4409a1110d527361a7b7a05ee
   trace_generation_time: 1719521705.369751
   trace_name: trojan.virut
   trace_uri: traces/virussign.com_1b7473ec547eefedc2db4644188f1164.vir.pcap
@@ -1474,7 +1534,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 25
-  sha256: 4180d4d82abd79db9dd946567be5b669e1701e952e215132270683f18f8c15ce
+  trace_sha256: 15eabe9b951b2ef3ad097080472c975663ce8b11bc4f1d770460831959854fe0
+  binary_sha256: 4180d4d82abd79db9dd946567be5b669e1701e952e215132270683f18f8c15ce
   trace_generation_time: 1719522047.8195863
   trace_name: trojan.zusy/nfbzm
   trace_uri: traces/virussign.com_689df7676f0d117d2b55f30d3bb42a2f.vir.pcap
@@ -1498,7 +1559,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2351
-  sha256: e28d32eb5ecf3e23cf180f1d3a35153f8bff5af019b73a267a8f3d5afed99645
+  trace_sha256: 3a2f426b9452479d160b2c0c43efd325e0fc768278622b9a2c8246839f3822c8
+  binary_sha256: e28d32eb5ecf3e23cf180f1d3a35153f8bff5af019b73a267a8f3d5afed99645
   trace_generation_time: 1719521672.5895753
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_1047d24158544edc28ec7ce135e1f364.pcap
@@ -1524,7 +1586,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 3629eb1f3ec4052e7dcf2ea06dcf1fe8ba607a95fcae86c44e61e2bc330ab40b
+  trace_sha256: af666d1afa2abce73cc882e54ef23a18f2b0563e8e99719ca4307de55f8d5f96
+  binary_sha256: 3629eb1f3ec4052e7dcf2ea06dcf1fe8ba607a95fcae86c44e61e2bc330ab40b
   trace_generation_time: 1719521625.2013214
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_00679d5663605803a1c9deadaf486e54.vir.pcap
@@ -1548,7 +1611,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 84
-  sha256: 5b2492cdd814cd4ad2ad0f7d32433b314cc153c3e5db0787262e2fd5ecb9650d
+  trace_sha256: 801cf00eefdaae8116f3d1fc8933775bc948f8cc40417f21bc47654c2b84b2bd
+  binary_sha256: 5b2492cdd814cd4ad2ad0f7d32433b314cc153c3e5db0787262e2fd5ecb9650d
   trace_generation_time: 1719522186.9282434
   trace_name: trojan.dacic/suri
   trace_uri: traces/virussign.com_af177146ef049d52898fc75ffe431d2f.vir.pcap
@@ -1574,7 +1638,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: 2f1297f6491ef37e82caab77ad565d53fe11b77a8d6f0d5b4ce4e3dda2ddaa5e
+  trace_sha256: 257a2948858a741441d363cbefe79ae9cfdd44185692e45b1cbb5f775f73bc74
+  binary_sha256: 2f1297f6491ef37e82caab77ad565d53fe11b77a8d6f0d5b4ce4e3dda2ddaa5e
   trace_generation_time: 1719521686.5056498
   trace_name: downloader.zusy/bjbrn
   trace_uri: traces/virussign.com_152cf6d7dcb81340e78cf73f87072645.pcap
@@ -1598,7 +1663,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 8
-  sha256: e46d7c0ef3b8f44d17e5f391e53fdc992c9125e9a99b8c709d623ff865dac21b
+  trace_sha256: 66948519f484efc8d4b0f5be61e1ddf14cacd9443e3490663e376a3855f2c5dd
+  binary_sha256: e46d7c0ef3b8f44d17e5f391e53fdc992c9125e9a99b8c709d623ff865dac21b
   trace_generation_time: 1719522212.364355
   trace_name: trojan.qqpass/scar
   trace_uri: traces/virussign.com_bf9fca4cd65d1d0e6e242733650f7783.vir.pcap
@@ -1620,7 +1686,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2488
-  sha256: 921b3d54d636bc48f88a63bace863e0903ec2eac1cf427f8b0c062a1d2dfecc9
+  trace_sha256: 8b6b5adac91ee9e50239d0c7b16b9a8afc3d4baab1c71b28bf506ebeeb53c24f
+  binary_sha256: 921b3d54d636bc48f88a63bace863e0903ec2eac1cf427f8b0c062a1d2dfecc9
   trace_generation_time: 1719521674.765587
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_11202fbc5a47fd5698d0b94937d523cf.pcap
@@ -1646,7 +1713,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 11327
-  sha256: e320d7e93e8852f68faf535154104d72bd7258a3f836b89e4a9d47144cab0326
+  trace_sha256: 3eece9ca445a461e55e35f771f6a0fb69ec799c64f845da0a04d39171e26308f
+  binary_sha256: e320d7e93e8852f68faf535154104d72bd7258a3f836b89e4a9d47144cab0326
   trace_generation_time: 1719521961.1191216
   trace_name: trojan.zusy/upatre
   trace_uri: traces/virussign.com_4968e600f22ab116dc1272ae21c8bdc4.vir.pcap
@@ -1670,7 +1738,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 23
-  sha256: 73f398cb96177719101f890cbfa56a758897949fed47217b1e94a4e1b05d4fe0
+  trace_sha256: 74e577835588624a348736befb8dc2d18de2e7ebc0bbf72f8d9a9e22b802200a
+  binary_sha256: 73f398cb96177719101f890cbfa56a758897949fed47217b1e94a4e1b05d4fe0
   trace_generation_time: 1719522101.2078679
   trace_name: trojan.zusy/bvrec
   trace_uri: traces/virussign.com_7d687db1fe19c9dd07ce351edbbe820b.vir.pcap
@@ -1694,7 +1763,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 13ec4a5b8d52d11f0171abb870bea8d9ec5a6d7b54e55918355abc042078bfcd
+  trace_sha256: 2b77e74af224728c4cced68c7841c7dd5a5cef7b846ecd04bf0052338e802cc1
+  binary_sha256: 13ec4a5b8d52d11f0171abb870bea8d9ec5a6d7b54e55918355abc042078bfcd
   trace_generation_time: 1719521638.7133937
   trace_name: trojan.zusy/bzyig
   trace_uri: traces/virussign.com_04a83037971169dd8ed8a6a269fd8db5.vir.pcap
@@ -1718,7 +1788,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 20
-  sha256: 395d783436eb2d9ac60d26b19435e0b3ec58db93495c649111601e415aa9745b
+  trace_sha256: 464eeaf5f0c9741c61894a32a1bb1cdb0892fded20d5a7dfedef4c89669ae734
+  binary_sha256: 395d783436eb2d9ac60d26b19435e0b3ec58db93495c649111601e415aa9745b
   trace_generation_time: 1719521921.0109067
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_3a8578b4a0f9aa0fe5aa59096bc75128.vir.pcap
@@ -1742,7 +1813,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: d0f7718a97fdf8b527be772c56c85a5fd45c2ec2c0ded5b62cab929743479e38
+  trace_sha256: b689c5d1e783bce287787a7354e84e26ec397a3758a319bc918954dc2a5d62c8
+  binary_sha256: d0f7718a97fdf8b527be772c56c85a5fd45c2ec2c0ded5b62cab929743479e38
   trace_generation_time: 1719521716.3338099
   trace_name: trojan.zusy/gcpop
   trace_uri: traces/virussign.com_1f5985ca60835d89d4adbc243041d5ae.vir.pcap
@@ -1766,7 +1838,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 6717458d5b67c17ca5612a1445bcecc2a07f543e31640833a9dcfbdca3586d76
+  trace_sha256: e39c17ebbd96689374573f2137bb1d16181ceedec0656d54e2d70d6051b0faf6
+  binary_sha256: 6717458d5b67c17ca5612a1445bcecc2a07f543e31640833a9dcfbdca3586d76
   trace_generation_time: 1719521718.6938224
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_2005391c515c4db96bc7e876aa302b42.pcap
@@ -1790,7 +1863,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 73
-  sha256: d96e0f583b81c93bbe540f140f61c87a4af67351124b9bcd8634b8f756bb3e74
+  trace_sha256: 0f9d4466f0e162f3cb73113ca1e3d0091abf50e596dd2a03db4fe1f89498593a
+  binary_sha256: d96e0f583b81c93bbe540f140f61c87a4af67351124b9bcd8634b8f756bb3e74
   trace_generation_time: 1719521665.4815373
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_0d4a3bc0186df21ca4932971952eb7a1.vir.pcap
@@ -1814,7 +1888,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 5
-  sha256: 36ee6a9a8811cd63ea8fd4b3bd199f9ac49c89044af2c9c2121af3ad575dcf56
+  trace_sha256: ff100fe518fdeea4c089796d79e859fb5339ff030b887eda0faab6478d62bfc6
+  binary_sha256: 36ee6a9a8811cd63ea8fd4b3bd199f9ac49c89044af2c9c2121af3ad575dcf56
   trace_generation_time: 1719521759.2220397
   trace_name: trojan.pincav/muldrop3
   trace_uri: traces/virussign.com_2c720a05a626a654c8c49429ed75baf1.vir.pcap
@@ -1840,7 +1915,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 20
-  sha256: ba70d89e5e2156a4f0567ee331c3eec81e98cef19271ac3d26cd7efde8661f26
+  trace_sha256: 2af695a3e320898e45887b9a3e95c8273ebc2c70874f69a2257c9be677603d0d
+  binary_sha256: ba70d89e5e2156a4f0567ee331c3eec81e98cef19271ac3d26cd7efde8661f26
   trace_generation_time: 1719521908.198838
   trace_name: trojan.zusy/qdeql
   trace_uri: traces/virussign.com_36b08500442c2b346e9d8c0aa3321d61.vir.pcap
@@ -1864,7 +1940,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 1
-  sha256: 9b91a05e2dfa295625b67bfa2ca8d798fa044192a34e690dca5b6f77b5dbfee6
+  trace_sha256: d06a83b81466411bd32479ff738ec7b482428d1f19b86dd0433b5567619a79dc
+  binary_sha256: 9b91a05e2dfa295625b67bfa2ca8d798fa044192a34e690dca5b6f77b5dbfee6
   trace_generation_time: 1719521684.6016397
   trace_name: trojan.ipamor/backdoor2
   trace_uri: traces/virussign.com_14e0b624dacc9b6a0a713312c807e677.pcap
@@ -1888,7 +1965,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 97
-  sha256: 4c3f2d6a63bc9cf0be48e9104ad19ce8e2cd0bb23ffbf09df372fe319c3e7d61
+  trace_sha256: 5641e64424496536d2c78eda162ff5f9b66668d67094a20b34406d2200a18108
+  binary_sha256: 4c3f2d6a63bc9cf0be48e9104ad19ce8e2cd0bb23ffbf09df372fe319c3e7d61
   trace_generation_time: 1719521630.373349
   trace_name: trojan.msil/jalapeno
   trace_uri: traces/virussign.com_01f366c42374a03bae43a5bf9c4ce11a.pcap
@@ -1910,7 +1988,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: f4c68eb1a4660c82c51a370fb4261ba31dc3a53151533854c1ef789a0ac9f03c
+  trace_sha256: 5ee4401eac21411b4eb420097acc2d6c479d59985160e7c00eaac2d71b2c3748
+  binary_sha256: f4c68eb1a4660c82c51a370fb4261ba31dc3a53151533854c1ef789a0ac9f03c
   trace_generation_time: 1719521706.6097577
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_1ba9ad127056cc020bc996177eecbf0c.pcap
@@ -1934,7 +2013,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 154
-  sha256: 01c04292be82df02cabb076950f8ce150eece95577741c504efa20d513d95cea
+  trace_sha256: 415fabd8d18e568b0da012e7d5bca96cd9e95bcb4130346f562ce490ca12a36e
+  binary_sha256: 01c04292be82df02cabb076950f8ce150eece95577741c504efa20d513d95cea
   trace_generation_time: 1719522237.1604638
   trace_name: trojan.cryptolocker/upatre
   trace_uri: traces/virussign.com_cdaa68079584b751564e446672d7bd90.vir.pcap
@@ -1960,7 +2040,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 2483466568e2fe5a7bc0aeb1f3779e14734679dc5dbeab1fbc7d22039b3676d6
+  trace_sha256: e11afb04efea396096e9dd14fadbdcc39bf959a58398d3a4c464c210df745f6b
+  binary_sha256: 2483466568e2fe5a7bc0aeb1f3779e14734679dc5dbeab1fbc7d22039b3676d6
   trace_generation_time: 1719521655.2654824
   trace_name: trojan.zusy/pgcze
   trace_uri: traces/virussign.com_0ad979ff3bcb079a519e465e3dd71005.vir.pcap
@@ -1984,7 +2065,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2251
-  sha256: 2454440761eaa1300a9e4b9d8fb4ef0741dc4d164599606bae5751ad782faf2e
+  trace_sha256: 32d5515f351e2fa8e45705f110f150a01411b99bdcff12be28aa5e28bc96cf57
+  binary_sha256: 2454440761eaa1300a9e4b9d8fb4ef0741dc4d164599606bae5751ad782faf2e
   trace_generation_time: 1719521721.593838
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_2045b839cd0d3945390ae50a27226fb4.vir.pcap
@@ -2010,7 +2092,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 276
-  sha256: e007cb15d608d64545115ec9ff98c6623aef8e40e85efce7605901829e3307b4
+  trace_sha256: ee0399e9542d180d594bf9e9c6674cbe6a97e5cd66e3b882cbe0756c68882975
+  binary_sha256: e007cb15d608d64545115ec9ff98c6623aef8e40e85efce7605901829e3307b4
   trace_generation_time: 1719522276.972639
   trace_name: trojan.genie/ulpm
   trace_uri: traces/virussign.com_e9437d6cbcb213bb9922179026cb0829.vir.pcap
@@ -2034,7 +2117,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 19
-  sha256: f447335112ecf966303f613e8d010f88acdd00e82ca5b35313ed6b33c620fb8c
+  trace_sha256: 5f736b8972bb2b5b9dd02cc5cc18ea3c28796634f3763bf5bf98b96ce0d111bc
+  binary_sha256: f447335112ecf966303f613e8d010f88acdd00e82ca5b35313ed6b33c620fb8c
   trace_generation_time: 1719521708.377767
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_1c73fce86de4a00d8f8b4bf0da7d7b94.pcap
@@ -2058,7 +2142,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 2987
-  sha256: 7d64ffdc2a04ca4752730c0a2bcd7ef7494595909dd978669067051823019bee
+  trace_sha256: 6a880081371d9986dc1b4bc8ee24dc89769400e7cb077fefa50ec276268a2700
+  binary_sha256: 7d64ffdc2a04ca4752730c0a2bcd7ef7494595909dd978669067051823019bee
   trace_generation_time: 1719522309.5647824
   trace_name: trojan.flystudio
   trace_uri: traces/virussign.com_fea6a50fc0136c43c531a9110aaff16f.vir.pcap
@@ -2082,7 +2167,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 9df8581c97815e1fe379316eee6b2c0cb750357eb73b8ee0ea9c3f302f90b0c9
+  trace_sha256: b7b1cb3b5deca18e268c528ac84841e373ffecf0970c2bb30825f3141dc9df92
+  binary_sha256: 9df8581c97815e1fe379316eee6b2c0cb750357eb73b8ee0ea9c3f302f90b0c9
   trace_generation_time: 1719521641.2294073
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_057ac66217a47e22f9a48fa4d8b7e8fd.vir.pcap
@@ -2106,7 +2192,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2749
-  sha256: 9c6d4328e7255a6f32933725003e1b7a5dd6ac14e787df00ed9c43ad48534998
+  trace_sha256: 7083db8b4b5ebfc8d0afc7301000192f885623c02c508b9dbbe395f4d8046044
+  binary_sha256: 9c6d4328e7255a6f32933725003e1b7a5dd6ac14e787df00ed9c43ad48534998
   trace_generation_time: 1719521692.9816847
   trace_name: hacktool.connectwise
   trace_uri: traces/virussign.com_17854df6be2802d9a38d63e55aa3be74.vir.pcap
@@ -2132,7 +2219,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2819
-  sha256: 0f41d67bb983301a6eabaa35a0d16d0b93ccac84d3a2ebd30c6aeae2ab523eed
+  trace_sha256: cba866ee249fb41fba5839081d870eabd60cb64c0c0688e921b394723f2e6622
+  binary_sha256: 0f41d67bb983301a6eabaa35a0d16d0b93ccac84d3a2ebd30c6aeae2ab523eed
   trace_generation_time: 1719521740.64594
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_26a7514907fe6998bedbb7032704590c.vir.pcap
@@ -2158,7 +2246,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 663
-  sha256: 6c1217131267ca839cfe43cb41846aa7a3a25af06e2529e2633ab92fc3e07aec
+  trace_sha256: 31ad6cb1d1eafdccba147b20beb0cb6cee400226f75f1bcbe4a13e76d627b90b
+  binary_sha256: 6c1217131267ca839cfe43cb41846aa7a3a25af06e2529e2633ab92fc3e07aec
   trace_generation_time: 1719522308.536778
   trace_name: trojan.hupigon/aaah
   trace_uri: traces/virussign.com_fd895a59a595514ca728a6ce7071bf58.vir.pcap
@@ -2182,7 +2271,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: b8be13f6f22a5875a51ffeb9480ee5e7e3f72f7184680bba395f2c6b4117f9ef
+  trace_sha256: 9f17514f228357310f3d5b31e881104c384123491a22bc79d523923185df433d
+  binary_sha256: b8be13f6f22a5875a51ffeb9480ee5e7e3f72f7184680bba395f2c6b4117f9ef
   trace_generation_time: 1719521660.9975133
   trace_name: trojan.zusy/julxj
   trace_uri: traces/virussign.com_0b2ee921e3025220c1fa364239624b08.pcap
@@ -2206,7 +2296,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 299
-  sha256: f2130da055913385a0e198a256bc33b74fae1f5a5145a3f8d5cfef8367242128
+  trace_sha256: 92ac89bf752ca054926d290b75901ae0504028220e1e62f46a4b944030562ae4
+  binary_sha256: f2130da055913385a0e198a256bc33b74fae1f5a5145a3f8d5cfef8367242128
   trace_generation_time: 1719521676.5815966
   trace_name: Unknown
   trace_uri: traces/virussign.com_11b602eb199855510615045d480beb3f.pcap
@@ -2220,7 +2311,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 1
-  sha256: 9b91a05e2dfa295625b67bfa2ca8d798fa044192a34e690dca5b6f77b5dbfee6
+  trace_sha256: dc603c06e9f99f07691c8fcd43bfe30709e912fae37a67dad4b87ff47e97f892
+  binary_sha256: 9b91a05e2dfa295625b67bfa2ca8d798fa044192a34e690dca5b6f77b5dbfee6
   trace_generation_time: 1719521685.005642
   trace_name: trojan.ipamor/backdoor2
   trace_uri: traces/virussign.com_14e0b624dacc9b6a0a713312c807e677.vir.pcap
@@ -2244,7 +2336,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 66db75dd98f54d2fab4ea810a36954700198c432183fcca6018734b0b4b90da8
+  trace_sha256: 623c4d21ef8765a9772ee1eaf6a247f04083c8e7c63eea35bd5145f00010f692
+  binary_sha256: 66db75dd98f54d2fab4ea810a36954700198c432183fcca6018734b0b4b90da8
   trace_generation_time: 1719521748.1819806
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_293460f4d64e9556d179e5b86fd29e83.pcap
@@ -2268,7 +2361,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: c33465496a570080056b9cd768f1cdbc8e62eae6bbc4ff32a0235ceb26cbd4c7
+  trace_sha256: 1636d2b6ad14d896d9e4ba4640a17a531ca809d64d733c70f8f16586e262b41f
+  binary_sha256: c33465496a570080056b9cd768f1cdbc8e62eae6bbc4ff32a0235ceb26cbd4c7
   trace_generation_time: 1719521718.045819
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_1ff94a0d0dc88d5b227089584126a13c.pcap
@@ -2292,7 +2386,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 16
-  sha256: 63ffdf52618eba701130e68b665f14d46e5228626352e89e2339a51fad5e1767
+  trace_sha256: 5b793f946eb893bb6ca210dd111bc19334e35f6cdff11adae44aabdd6a5df208
+  binary_sha256: 63ffdf52618eba701130e68b665f14d46e5228626352e89e2339a51fad5e1767
   trace_generation_time: 1719521978.2432134
   trace_name: adware.downware/somoto
   trace_uri: traces/virussign.com_501e52f6daa9e48fe7c1104db2b09891.vir.pcap
@@ -2316,7 +2411,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 95
-  sha256: fc42d1bccc449ed8368c2e1e3e37830bfaad0357c39c5c095c927653c83b73b9
+  trace_sha256: 28661b877142712bd5a97c6cb2d0006a036bc04951d7ee52259a916a3c48993b
+  binary_sha256: fc42d1bccc449ed8368c2e1e3e37830bfaad0357c39c5c095c927653c83b73b9
   trace_generation_time: 1719522117.3559384
   trace_name: trojan.vbkrypt/barys
   trace_uri: traces/virussign.com_835c3658c1e99621940a6a4a6a4b1fcc.vir.pcap
@@ -2338,7 +2434,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 3005
-  sha256: 974c55b6b59982ab904513d0aa98073406cb91f5cf7194432239f1a448d0ac6c
+  trace_sha256: 7999519f2714347ac3594915acbde0c41bc66588fbfa5b36c63135352d4d18cd
+  binary_sha256: 974c55b6b59982ab904513d0aa98073406cb91f5cf7194432239f1a448d0ac6c
   trace_generation_time: 1719521957.6591032
   trace_name: miner.xmrminer/xmrig
   trace_uri: traces/virussign.com_47bc1e9398f5138b60799873970702e2.vir.pcap
@@ -2364,7 +2461,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 21
-  sha256: 9db0c724729a00a2c72dea6ea1253311591ba0f7711b326693b2312320d95409
+  trace_sha256: a19710a2248c29df3a28129e27cd17d14526339b30ce191a17fea51608a38f31
+  binary_sha256: 9db0c724729a00a2c72dea6ea1253311591ba0f7711b326693b2312320d95409
   trace_generation_time: 1719522023.0194533
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_5e8ff0dec4309d5f89bd8976c04ccbe5.vir.pcap
@@ -2388,7 +2486,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: cf53bbd5592c8ac5d661a58f5f70c7d0c5c8eace64bbc344562c82cbd6d022db
+  trace_sha256: 2fd1ebe48ede172010a4a4915af784b2ae4b7664509d2f209877dac34184594b
+  binary_sha256: cf53bbd5592c8ac5d661a58f5f70c7d0c5c8eace64bbc344562c82cbd6d022db
   trace_generation_time: 1719521784.106173
   trace_name: trojan.zusy/dnuoc
   trace_uri: traces/virussign.com_349536675358cc9a1f54e4cc0179f48c.vir.pcap
@@ -2412,7 +2511,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 491
-  sha256: b8f2037d914e51ce1f06252261d801a4ece712009252d270b39978c591d79b3e
+  trace_sha256: eabb14f32da3bae22393d5c6fc6a2f82f1ae7205228bf4ee11d966d3bba1ad15
+  binary_sha256: b8f2037d914e51ce1f06252261d801a4ece712009252d270b39978c591d79b3e
   trace_generation_time: 1719521755.8620217
   trace_name: Unknown
   trace_uri: traces/virussign.com_2bda610f472ac7e4f8e7beec2a291958.pcap
@@ -2426,7 +2526,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 10
-  sha256: d4963ddce27f06654195e4a988b5d2c4adc2d483e05c5c7345c1bd92a1033d3b
+  trace_sha256: 3bbb4b9c072fcba0691d780ff57e9e182cf32d8c16f851ba01f0a8d6a11d4250
+  binary_sha256: d4963ddce27f06654195e4a988b5d2c4adc2d483e05c5c7345c1bd92a1033d3b
   trace_generation_time: 1719521744.929963
   trace_name: trojan.agentb/bvip
   trace_uri: traces/virussign.com_27e231d4af0cb1e59fb167a64fdf3377.pcap
@@ -2448,7 +2549,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 21
-  sha256: baf8b4537369e66f09f2935036f8ec8e8caa27e64432e78d951b0ee78f5ae26c
+  trace_sha256: 2b2e3d2cace57eea5dec43ea6633b94d79c784cc1c0d730ea3371d332081ec2c
+  binary_sha256: baf8b4537369e66f09f2935036f8ec8e8caa27e64432e78d951b0ee78f5ae26c
   trace_generation_time: 1719521959.5271132
   trace_name: trojan.zusy/owtar
   trace_uri: traces/virussign.com_4879394b44cad8a0e7852a5a2b9d8181.vir.pcap
@@ -2472,7 +2574,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 10
-  sha256: 6f4194aa64f2cab0fab9f5ceec720ade92de409b444b43df479aecdfc893c832
+  trace_sha256: 0a7d30905c1cefa6213fd867ad7b5f4d75cad5f9f9d0bd545d45cfa4c020a7ce
+  binary_sha256: 6f4194aa64f2cab0fab9f5ceec720ade92de409b444b43df479aecdfc893c832
   trace_generation_time: 1719522006.7473662
   trace_name: trojan.agentb/bvip
   trace_uri: traces/virussign.com_59ce013ca8b5d7cfddfa91c61b1ce64a.vir.pcap
@@ -2494,7 +2597,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 0eb6db3af646fadc75e109035658a4e93a53dd1ef0072776861da4b84315d8a8
+  trace_sha256: 373b422ecadb58bb96e71005d65b756bdd0e5031d0a1888c54fbcd13709e6a48
+  binary_sha256: 0eb6db3af646fadc75e109035658a4e93a53dd1ef0072776861da4b84315d8a8
   trace_generation_time: 1719521710.4777784
   trace_name: trojan.zusy/aoxkj
   trace_uri: traces/virussign.com_1d0c766e79c849b3698849e326a6a536.vir.pcap
@@ -2518,7 +2622,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 0e4e8200fae62ed63f75942ddb2eb6f9a6d8af50dac144135335571562f8f535
+  trace_sha256: 4095d9fe1bef835e3d8922a04781ec57094c936bc82f78d282bb6987451326cc
+  binary_sha256: 0e4e8200fae62ed63f75942ddb2eb6f9a6d8af50dac144135335571562f8f535
   trace_generation_time: 1719521746.4299712
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_28a5769220e306bf92d9b27979f74c3d.pcap
@@ -2542,7 +2647,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 4
-  sha256: 27fd17c477fd83bdb7ffc67ae0b854da58498b9c88a460df7384266c21025699
+  trace_sha256: 5a0874b5d83815760a3194b8d2921656a80a32ebed14ef07f59799454007129d
+  binary_sha256: 27fd17c477fd83bdb7ffc67ae0b854da58498b9c88a460df7384266c21025699
   trace_generation_time: 1719521673.9375825
   trace_name: trojan.pincav/muldrop3
   trace_uri: traces/virussign.com_10a65b8c834909302f109a60e6b35232.pcap
@@ -2568,7 +2674,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 50
-  sha256: ab32825d0a6bc38297c4cfee0127e0463efe90c07886fb676378f0f4e2b7df27
+  trace_sha256: 841c2f6bacf21501203a9d41751913c3511c7355e92b4c4f4ac7d76939867491
+  binary_sha256: ab32825d0a6bc38297c4cfee0127e0463efe90c07886fb676378f0f4e2b7df27
   trace_generation_time: 1719521733.533902
   trace_name: trojan.vbkrypt/manbat
   trace_uri: traces/virussign.com_24166ef23c2bb725628d4bb8b3f023b3.vir.pcap
@@ -2594,7 +2701,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 282aa9cac772110702dc48cb8070567b566b3171dde3783be103415e4c0d203c
+  trace_sha256: ce54cbd309cc436bfa805b37ec016f51678a56d880c1cb0d514d0f90ca6258b8
+  binary_sha256: 282aa9cac772110702dc48cb8070567b566b3171dde3783be103415e4c0d203c
   trace_generation_time: 1719521645.7174313
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_07b02e8643350b16da7b19c85dc0abf9.pcap
@@ -2618,7 +2726,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 1818
-  sha256: 98bc5cb457b0317a53371d28c654df04d9be34bd3ad046dc23cfbc5926d975c8
+  trace_sha256: 9a7cb57d0c8ba834f94c04e3c97d9822e35d507d2247be8a5d9a6a53c2e7d638
+  binary_sha256: 98bc5cb457b0317a53371d28c654df04d9be34bd3ad046dc23cfbc5926d975c8
   trace_generation_time: 1719521717.3898156
   trace_name: trojan.zusy/vmprotect
   trace_uri: traces/virussign.com_1fabee4ecd2adb81748a4f3d487bbfdd.vir.pcap
@@ -2642,7 +2751,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 113
-  sha256: cb68cdd6ef1e647dcd35170b07da913f8f8d0074ca8f30f017f6c8d91e19e975
+  trace_sha256: b967354078fa79b774f736dc893773923356cdf3a8effbd7697414d30a627993
+  binary_sha256: cb68cdd6ef1e647dcd35170b07da913f8f8d0074ca8f30f017f6c8d91e19e975
   trace_generation_time: 1719521782.8381662
   trace_name: trojan.dorifel/dacic
   trace_uri: traces/virussign.com_345cf7fa3167af5c01568cb1063d0dc1.vir.pcap
@@ -2666,7 +2776,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 19
-  sha256: e5108c12c9155fecd9f7f26aef194535825ac8b9e201b0a707c20e113db22666
+  trace_sha256: 8d102cc7454f02edacbbe6f1969458861a73d2941cf878b9a06da16a3ea7dd4b
+  binary_sha256: e5108c12c9155fecd9f7f26aef194535825ac8b9e201b0a707c20e113db22666
   trace_generation_time: 1719521668.5535536
   trace_name: trojan.zusy/r03bc0df724
   trace_uri: traces/virussign.com_0ea8a1ae392a83ade879343333dc19c5.vir.pcap
@@ -2690,7 +2801,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 64
-  sha256: a43536321273b636a145ee8936d163c35070c071b43cebe953832ef75cd59a0e
+  trace_sha256: 942883397aa657e13469a8ca96035595783fed2940d799c1fd378aef1b4aae7b
+  binary_sha256: a43536321273b636a145ee8936d163c35070c071b43cebe953832ef75cd59a0e
   trace_generation_time: 1719521783.922172
   trace_name: trojan.shiz/tdss
   trace_uri: traces/virussign.com_348f1bddc47cc1989207664e14469692.vir.pcap
@@ -2714,7 +2826,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 3961343fb67d2abdead3858b9ed5eaf8b150028dcad87ded0721c71f79117413
+  trace_sha256: 1aea12facb4256dd61b8b08c69fc36fdba3b05a5e9463256ee089f5e6e4a8b76
+  binary_sha256: 3961343fb67d2abdead3858b9ed5eaf8b150028dcad87ded0721c71f79117413
   trace_generation_time: 1719521700.6497257
   trace_name: trojan.zusy/pvgey
   trace_uri: traces/virussign.com_1a0fafa20dcd53e49838de732f6cce0f.vir.pcap
@@ -2738,7 +2851,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 34
-  sha256: 725bf1da62d003978d39d47f05d247e3eba32d41b45ce44ff74167b50b30bf72
+  trace_sha256: fa0d0d502cf24ff0f9abc4d07fd4cf32e85479cc3c1032f58b19299cd6e94adc
+  binary_sha256: 725bf1da62d003978d39d47f05d247e3eba32d41b45ce44ff74167b50b30bf72
   trace_generation_time: 1719521693.2816863
   trace_name: trojan.mansabo/banload
   trace_uri: traces/virussign.com_17897c031467bac179553f2d2634eb39.pcap
@@ -2764,7 +2878,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 19
-  sha256: fc24a7ca77d1225575670dd451c5ddcd8c03f0643accf845de6377b331e29e19
+  trace_sha256: 980bbc72fc341d6bf38c11cb1f794db6ac75a0e53d3ec10fe0fbb42be859a160
+  binary_sha256: fc24a7ca77d1225575670dd451c5ddcd8c03f0643accf845de6377b331e29e19
   trace_generation_time: 1719521785.4941804
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_35289a529081beba43dfeedbc2f53537.vir.pcap
@@ -2788,7 +2903,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 690d1ab7283493efb6af9b237bab1928a87923fbbb6e5b73b91664bbcd0222be
+  trace_sha256: 59ea4660b265934c3b3e16c913f283c84a52bd2cce32b2b6edc10db4811881ce
+  binary_sha256: 690d1ab7283493efb6af9b237bab1928a87923fbbb6e5b73b91664bbcd0222be
   trace_generation_time: 1719521639.9494004
   trace_name: trojan.zusy/avvnw
   trace_uri: traces/virussign.com_0522ae744209afe0062f0f44e5784c4f.pcap
@@ -2812,7 +2928,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 61
-  sha256: 27daa5e4ca86aaecd14778b03a325fdd8fcecf9ed5b68f52cbdd9b5b9d72a940
+  trace_sha256: 43a3ee8a6b0e4fae256401fb2be09fcdc2e6d172fccd9b8c90c59df072af0022
+  binary_sha256: 27daa5e4ca86aaecd14778b03a325fdd8fcecf9ed5b68f52cbdd9b5b9d72a940
   trace_generation_time: 1719521767.9860866
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_2f054f66d1ca438921c9354087048bb1.vir.pcap
@@ -2836,7 +2953,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 71
-  sha256: 8554e854a5cc39f3337b86e1e8401c9750e14bf906e635c0e311b84d0f2f5d4a
+  trace_sha256: f24a467cbbe058796f8baeaa562ba67b62b8788fd622bfe2c77a6c1d9f7d3585
+  binary_sha256: 8554e854a5cc39f3337b86e1e8401c9750e14bf906e635c0e311b84d0f2f5d4a
   trace_generation_time: 1719521766.162077
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_2e9cc5641d66a485a671b8d1963e3637.pcap
@@ -2860,7 +2978,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 102
-  sha256: d2f07b05e290442daf825e7152665b3d4d8461174ff67558a4853adfa8f824b3
+  trace_sha256: 35916e1edbe6996b975f4d1b45157a572a5430a3fc89f95cd996a52a89e508c8
+  binary_sha256: d2f07b05e290442daf825e7152665b3d4d8461174ff67558a4853adfa8f824b3
   trace_generation_time: 1719521782.2021627
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_33dc80de597c79c27e4e8d06b4c2bbfa.pcap
@@ -2886,7 +3005,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 51076
-  sha256: c6bfebe37a26065aff3c1968d43e4429869d1eb81924626d09996a8a10f0e820
+  trace_sha256: dfcf775e718232aa61de16e728d40044545f9a0294653155bdb153284e21189f
+  binary_sha256: c6bfebe37a26065aff3c1968d43e4429869d1eb81924626d09996a8a10f0e820
   trace_generation_time: 1719522302.1647499
   trace_name: trojan.mydoom/memscan
   trace_uri: traces/virussign.com_f8eccc57ffe899afc847df932b4a8d96.vir.pcap
@@ -2912,7 +3032,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 24
-  sha256: 9c5f05cce58227a009aa25402e9ed9a87bfcae86a5cc368dffd7ee7dc8dab30b
+  trace_sha256: a82a754608ce0f774e4cd252c0d6ce3c79ba3b377904675d3b835697fa04cbe5
+  binary_sha256: 9c5f05cce58227a009aa25402e9ed9a87bfcae86a5cc368dffd7ee7dc8dab30b
   trace_generation_time: 1719522289.9806962
   trace_name: trojan.lolbot/r03bc0cf724
   trace_uri: traces/virussign.com_f1758467057cd6ec466a98f2508246ef.pcap
@@ -2934,7 +3055,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 84
-  sha256: 4e230182cffdfca4e92e5e8134a3355c7699e18cfb7c10926e0a2e25950a5c7c
+  trace_sha256: 50252dfaff23b2cf57bc291477ec000e5998726b8f0c3df601f3158446d50e72
+  binary_sha256: 4e230182cffdfca4e92e5e8134a3355c7699e18cfb7c10926e0a2e25950a5c7c
   trace_generation_time: 1719521704.9057486
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_1b55e952ce659da106e3776877e0a07e.pcap
@@ -2960,7 +3082,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 38
-  sha256: 9c37643da30136bc1875e290b756c06e97127c654657ef7ce56c94a345bb9501
+  trace_sha256: 74688ccbb659515bba83708d64178da5fc401e45a4fcda70a117abc4b9314e7a
+  binary_sha256: 9c37643da30136bc1875e290b756c06e97127c654657ef7ce56c94a345bb9501
   trace_generation_time: 1719521968.1511593
   trace_name: trojan.enigma/strictor
   trace_uri: traces/virussign.com_4bad45eb05c29dc080e416c508dff1f2.pcap
@@ -2984,7 +3107,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 54990e90b0d13fcf1ccb27f38e56fab8b49450854e52b4c9a0ebadc43a37ea6d
+  trace_sha256: 678960f8b5f993f20bb797cc365fba1bc9cce4fc58cb9a6d35992f85dfd997e9
+  binary_sha256: 54990e90b0d13fcf1ccb27f38e56fab8b49450854e52b4c9a0ebadc43a37ea6d
   trace_generation_time: 1719521722.3738422
   trace_name: trojan.zusy/ozjgs
   trace_uri: traces/virussign.com_20dd977c85d3584667150d9aa0282c2f.pcap
@@ -3008,7 +3132,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 10
-  sha256: 19a5e6c68e184b50ab244b6cb01e054cad19d9445ee0dccbde8dd985d58babc1
+  trace_sha256: a874d1bf113e77db814a74cda0a0b5ee1cebd992ae7a4fe1d851a3d46edbdfbf
+  binary_sha256: 19a5e6c68e184b50ab244b6cb01e054cad19d9445ee0dccbde8dd985d58babc1
   trace_generation_time: 1719521638.365392
   trace_name: trojan.agentb/dacic
   trace_uri: traces/virussign.com_04a16747ea6e480b0a8c0ae1c1e87944.vir.pcap
@@ -3030,7 +3155,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2653
-  sha256: a27e7f5dd1a63c9bbf2ab3f416bc54cee7c14b578a4f2405b6a4420cdc0ff3a8
+  trace_sha256: 08adee595a6883e90b4a0e23de6271ea37b47d487c13e9074f2d0213a02642d9
+  binary_sha256: a27e7f5dd1a63c9bbf2ab3f416bc54cee7c14b578a4f2405b6a4420cdc0ff3a8
   trace_generation_time: 1719521645.085428
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_078611755d10e68c06739a0faf9845e7.vir.pcap
@@ -3056,7 +3182,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 479f4f943402645df74b9026577d980815cafc32a2a89156034c99d56d9a5182
+  trace_sha256: 07405edac679593f7c8cf398e7671b88fb42c3a1c2b96a65ca4a563462ac6708
+  binary_sha256: 479f4f943402645df74b9026577d980815cafc32a2a89156034c99d56d9a5182
   trace_generation_time: 1719521770.4340997
   trace_name: trojan.zusy/mqxuo
   trace_uri: traces/virussign.com_2fc549feeadac3cce0202c4dd4392872.pcap
@@ -3080,7 +3207,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 75
-  sha256: 41dc89884ce13db44d52623449e20f29c3e6329b4ecf855cca303fb67c2a75fa
+  trace_sha256: 8d6962a5eaf78029c8386650c8132d1dc1682ed076fcc1c9c2c440331d3758c5
+  binary_sha256: 41dc89884ce13db44d52623449e20f29c3e6329b4ecf855cca303fb67c2a75fa
   trace_generation_time: 1719522028.2914815
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_60fb266e80901f5f6a0a08d4d8115b5f.vir.pcap
@@ -3106,7 +3234,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 30320
-  sha256: 7fa786cd9fa512f21274ceb0eadd105e5dab626f9f92a1b29bad806163c30bca
+  trace_sha256: f9964e15c13545a0555e5114a3a5621e72bac0fe53f09cf11b1a7a295439fbd6
+  binary_sha256: 7fa786cd9fa512f21274ceb0eadd105e5dab626f9f92a1b29bad806163c30bca
   trace_generation_time: 1719522060.7676556
   trace_name: Unknown
   trace_uri: traces/virussign.com_6e1ad628df7d07e1d5dc127dfddd217b.vir.pcap
@@ -3120,7 +3249,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 62
-  sha256: 6d232d989bfc89d1e0149d14acbd41d0893cf6675e439d01717219c0fb82e295
+  trace_sha256: fe990fc7fb20b0a92e425b6ba87e85e38de96acd0038ec4c3c45b25c42b877b4
+  binary_sha256: 6d232d989bfc89d1e0149d14acbd41d0893cf6675e439d01717219c0fb82e295
   trace_generation_time: 1719521785.0981784
   trace_name: trojan.deepscan/dialer
   trace_uri: traces/virussign.com_350b41738c2f84c946f8d4966156c4a3.pcap
@@ -3144,7 +3274,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 4
-  sha256: 26bd5f0fde481fd551f48d127e3e59235f1cdb4c69a946a8bdf5ccd51f545a9f
+  trace_sha256: 6141a7d7d7a2de9d535f3732a25a3a87ff0c830082d5f783f5b0caa3b7db813a
+  binary_sha256: 26bd5f0fde481fd551f48d127e3e59235f1cdb4c69a946a8bdf5ccd51f545a9f
   trace_generation_time: 1719522248.1565123
   trace_name: trojan.deepscan/dialer
   trace_uri: traces/virussign.com_d6767e2f18c6653fd981434d023e89f5.vir.pcap
@@ -3168,7 +3299,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 37
-  sha256: f07d89e3b9b3f2a2fd906aaf0f6a6dcb19610268c3848414856c9edaf7ff9364
+  trace_sha256: e94ec7cb24024a5daf626e20940182cf5ccbe084cf5316fd1e074ea1b64251b8
+  binary_sha256: f07d89e3b9b3f2a2fd906aaf0f6a6dcb19610268c3848414856c9edaf7ff9364
   trace_generation_time: 1719522010.663387
   trace_name: trojan.mansabo/banload
   trace_uri: traces/virussign.com_5ac9099233fab2ce3e3f220bb8cc207b.vir.pcap
@@ -3194,7 +3326,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 005e20df881cf50f42a894dfe9a04c81e631e0fd8814b7e7276770d1a849559b
+  trace_sha256: 98475cff57bb663475fe31313690b3155ed241dc414d6b405372bcd1975823ea
+  binary_sha256: 005e20df881cf50f42a894dfe9a04c81e631e0fd8814b7e7276770d1a849559b
   trace_generation_time: 1719521700.2417235
   trace_name: trojan.zusy/jidct
   trace_uri: traces/virussign.com_197b0b6dcdc30e30bc2f9a4334308b56.vir.pcap
@@ -3218,7 +3351,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 4525
-  sha256: 3abdd44ff1d1dd26c50439e95919c68d3881492fa70319bfb1c474669bc96ba9
+  trace_sha256: efcc9b8d7582637ee2686411ce3e6e29fedbc74b7af6c60ccac611607c8af66d
+  binary_sha256: 3abdd44ff1d1dd26c50439e95919c68d3881492fa70319bfb1c474669bc96ba9
   trace_generation_time: 1719521728.2898738
   trace_name: adware.yandex/bundleinstaller
   trace_uri: traces/virussign.com_224c1f61f4503f60531ad82cb1a0df0c.vir.pcap
@@ -3240,7 +3374,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 81
-  sha256: a27f38bd6903f72397d6751bb6bbcdb36a47b3441efebd4cead8c98b73ea6e9a
+  trace_sha256: 0c617856cacb112179ac6868e1e155c51943540c276a0a4fdbfe30de9859bd3c
+  binary_sha256: a27f38bd6903f72397d6751bb6bbcdb36a47b3441efebd4cead8c98b73ea6e9a
   trace_generation_time: 1719521691.1376748
   trace_name: trojan.zbot/generickdv
   trace_uri: traces/virussign.com_16180aa170cec30487594b1cf2d1bf6d.pcap
@@ -3264,7 +3399,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2987
-  sha256: a61cc4c08486fbf89c9e2f4db28a5d4ae36505fc9d5fbd552303d8a7911f9fd3
+  trace_sha256: 3ed0a54d6e4ced79b3f1d3b935d70dc3be0367d733281832e2267a4d87e2de22
+  binary_sha256: a61cc4c08486fbf89c9e2f4db28a5d4ae36505fc9d5fbd552303d8a7911f9fd3
   trace_generation_time: 1719521633.9653683
   trace_name: miner.dacic/deepscan
   trace_uri: traces/virussign.com_02e322d114a81984386da6de9c9fb068.pcap
@@ -3290,7 +3426,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 24
-  sha256: ae344d8525f5b3f6623979fc6be783623dde9668dac2a6895ba81f08c9b123fb
+  trace_sha256: 4bad32a350542ed970e4d2da164f9464bc0d6140fdbc6a9545f9246a6d10622d
+  binary_sha256: ae344d8525f5b3f6623979fc6be783623dde9668dac2a6895ba81f08c9b123fb
   trace_generation_time: 1719521731.9178934
   trace_name: trojan.dacic/mewsspy
   trace_uri: traces/virussign.com_2375dbbc9973e7df9c7d2fee077d58fb.vir.pcap
@@ -3312,7 +3449,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 103
-  sha256: 64c3c7031378a9de8a44404823f524b54b1ac2a9d7d882016fbde5793b35c2b9
+  trace_sha256: d32905df322ae31dc95928a04f898e4b5d13f344fa783bca0c3ef548061128d1
+  binary_sha256: 64c3c7031378a9de8a44404823f524b54b1ac2a9d7d882016fbde5793b35c2b9
   trace_generation_time: 1719521711.0897818
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_1d35cc36ab1b16fc493324a6a9d6883e.vir.pcap
@@ -3336,7 +3474,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 666
-  sha256: 1ea789fbc75581165149b62f9a2fecb944aa4c5d27a54e8d0ff7830ee67a225c
+  trace_sha256: f56d4e6736b1684b0446031b88339cc61a6d4186003962e9f8d996419ee5f824
+  binary_sha256: 1ea789fbc75581165149b62f9a2fecb944aa4c5d27a54e8d0ff7830ee67a225c
   trace_generation_time: 1719522001.4713378
   trace_name: trojan.hupigon/aaah
   trace_uri: traces/virussign.com_57dacd4863c9e7509e85a57dece31b6e.vir.pcap
@@ -3360,7 +3499,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 63
-  sha256: c26dd8fda497d1db213e4e20009b20707c008ef36c88934e3db19b5230810754
+  trace_sha256: 3c3d74992316d16e5b656e3dcd41ea968a0a2928f77dd3a105abaa8633c508d6
+  binary_sha256: c26dd8fda497d1db213e4e20009b20707c008ef36c88934e3db19b5230810754
   trace_generation_time: 1719521722.909845
   trace_name: worm.autoit/sohanad
   trace_uri: traces/virussign.com_20f85ec09a12be38db35a305fae825a8.vir.pcap
@@ -3386,7 +3526,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: e14e1ea69520c4287551adee0cb87a6d6fbf803b89a79bbf4c66711d02af63e4
+  trace_sha256: 9a2f735e252b9384fad2ce7e23fa21860873aab6a20b6bdb88394ebdc49faa10
+  binary_sha256: e14e1ea69520c4287551adee0cb87a6d6fbf803b89a79bbf4c66711d02af63e4
   trace_generation_time: 1719521675.0615885
   trace_name: trojan.zusy/r03bc0df724
   trace_uri: traces/virussign.com_112c14d5733f9de2759bf2e07b564287.pcap
@@ -3410,7 +3551,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 1936
-  sha256: e91a1d8bdbb540245a6d3e32e8ac78b59ddad5a0d3d1455840bd712e68c5f144
+  trace_sha256: 6e60c0c259c54961ebcf0f6409621d7de3dcd4ebe08a1557c2f3186201364975
+  binary_sha256: e91a1d8bdbb540245a6d3e32e8ac78b59ddad5a0d3d1455840bd712e68c5f144
   trace_generation_time: 1719521704.1097443
   trace_name: virus.expiro/moiva
   trace_uri: traces/virussign.com_1b0c81f4b50ab1eab3e869e977bf39f3.pcap
@@ -3434,7 +3576,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 24
-  sha256: c1be36b91862f8a699584d115c75d1cf824b3a554192e916ce0b8bf3e796e671
+  trace_sha256: ae722231fc65cf79b55584f09a903ae60df5cd0e728ed0fc35c80c7ef9cd93bb
+  binary_sha256: c1be36b91862f8a699584d115c75d1cf824b3a554192e916ce0b8bf3e796e671
   trace_generation_time: 1719521909.5108452
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_377862e974180af0a1b7dc8fe337c315.vir.pcap
@@ -3458,7 +3601,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 2883
-  sha256: 50d410652e3f5c363e5307fff14ce20a2da425ef176dc8fd5b7ef9bf3d44e400
+  trace_sha256: 5b14057fb2967492a1f85ea3c63cc0fd6c4690e0993b0853a00e69705eead082
+  binary_sha256: 50d410652e3f5c363e5307fff14ce20a2da425ef176dc8fd5b7ef9bf3d44e400
   trace_generation_time: 1719522057.6156387
   trace_name: miner.xmrminer
   trace_uri: traces/virussign.com_6c95907ed8b9212dd596f2c91d1d9444.vir.pcap
@@ -3484,7 +3628,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 23
-  sha256: 14723b18a47705de01ca1ff23fb55562ae26ffc8d87523f03404f9b96d473bdd
+  trace_sha256: 686b94109910ee8a879b92dc440e3b7e3a7dd91126c6929137f27ed303cb1acd
+  binary_sha256: 14723b18a47705de01ca1ff23fb55562ae26ffc8d87523f03404f9b96d473bdd
   trace_generation_time: 1719521922.6829157
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_3b9b27ddaddda15e173cd4673202f7c6.vir.pcap
@@ -3508,7 +3653,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: 2d42c3e2a01a9239da05b9ab2b9f01f770a47916d7ee630cfee9f2d9e3168e57
+  trace_sha256: 41f4f0404ce64854a2ead391f10cbbdc4fbb906ce36a1051af4e51f9ce5b1c03
+  binary_sha256: 2d42c3e2a01a9239da05b9ab2b9f01f770a47916d7ee630cfee9f2d9e3168e57
   trace_generation_time: 1719521652.2294662
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_09fb44a0d18f6ff119a2af104e7b880c.vir.pcap
@@ -3532,7 +3678,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 6
-  sha256: c9caa2ffc7b71f191ddb860adea763eddf4027544ddbe8e8bbd196bd27123cdb
+  trace_sha256: 8abddcf83d618403e4daf4a2681f51b5eb84ece9eb8cc6c515066b35653f7731
+  binary_sha256: c9caa2ffc7b71f191ddb860adea763eddf4027544ddbe8e8bbd196bd27123cdb
   trace_generation_time: 1719521927.1749396
   trace_name: trojan.pincav/download
   trace_uri: traces/virussign.com_3d62db160f04cd36720a26559b8f4682.vir.pcap
@@ -3558,7 +3705,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 6
-  sha256: 84442431d2aac3750d0a5b088e97eb6f4026ca7621913307b38d0629d474ae8a
+  trace_sha256: e31340f953f5ab4067d619abc3d19328d09a17ad168dda47cbb7f862644dfa98
+  binary_sha256: 84442431d2aac3750d0a5b088e97eb6f4026ca7621913307b38d0629d474ae8a
   trace_generation_time: 1719521708.7817693
   trace_name: trojan.daws/decap
   trace_uri: traces/virussign.com_1c90147b97fb537ab088c631c03cf0bc.pcap
@@ -3582,7 +3730,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 97
-  sha256: c2045c31a1bc15db738e53113824b46d420c4a1594dbbafbc32233acf35416c7
+  trace_sha256: a1d65c65cb7bbd55c9bcefd60a90f77667bad50b0ba1680c661324d11f24031a
+  binary_sha256: c2045c31a1bc15db738e53113824b46d420c4a1594dbbafbc32233acf35416c7
   trace_generation_time: 1719521667.6295488
   trace_name: trojan.swrort/cryptz
   trace_uri: traces/virussign.com_0e58dc7bbf12d1ef55b911d89d3ad3e2.pcap
@@ -3608,7 +3757,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 3662
-  sha256: 680f23bea02566b1de8a4e109597cbe73b744183c47c4dfa74e5ccb0c10ad933
+  trace_sha256: b61103127d6622a2d26063392195ee07b44c3835a2c127fc0c96680689e5f0ed
+  binary_sha256: 680f23bea02566b1de8a4e109597cbe73b744183c47c4dfa74e5ccb0c10ad933
   trace_generation_time: 1719522245.584501
   trace_name: virus.expiro/moiva
   trace_uri: traces/virussign.com_d552ff7028d3c15606ce6b3e5375d3fd.vir.pcap
@@ -3632,7 +3782,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 65c8ad05e0336e0363bd7277d8ec6e51714afefa4f483b78b9fea1df51ead4c5
+  trace_sha256: 861d7fa21296ecfdf191d63b560008666c07f2d8539a86ac144f30b55da23a1c
+  binary_sha256: 65c8ad05e0336e0363bd7277d8ec6e51714afefa4f483b78b9fea1df51ead4c5
   trace_generation_time: 1719521731.5578914
   trace_name: trojan.zusy/lqpij
   trace_uri: traces/virussign.com_2369052902ded3bf2d34cd87ea777c77.pcap
@@ -3656,7 +3807,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 97
-  sha256: 12242256a764b699419dccf1a0afc3ea337ff4f2a79d5f4dc094e6f5c4c0a29b
+  trace_sha256: 79d14ac98ddb99962a91accfd9adcbb602f89a0d8322ffd0f9953e065293c115
+  binary_sha256: 12242256a764b699419dccf1a0afc3ea337ff4f2a79d5f4dc094e6f5c4c0a29b
   trace_generation_time: 1719521948.7150552
   trace_name: trojan.farfli/palevo
   trace_uri: traces/virussign.com_4485bb92e752fff7277d4e3420d6f4bd.vir.pcap
@@ -3680,7 +3832,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 19
-  sha256: b8deee4655c46408bb0d52a8bd726aa58ba4546cd4c3d79e9237966dde3cacac
+  trace_sha256: 974ea1223f5d113d557bebf6a4a1d007d700cb2c25aecae4704611f67b6c3271
+  binary_sha256: b8deee4655c46408bb0d52a8bd726aa58ba4546cd4c3d79e9237966dde3cacac
   trace_generation_time: 1719522086.1597915
   trace_name: trojan.zusy/lesgj
   trace_uri: traces/virussign.com_7823acb9a34d8a5b42080d6cae7d8d29.vir.pcap
@@ -3704,7 +3857,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 206171460c3526fb2c3fbdcaf5559dd29468839d1567973cd6d554ad515057ca
+  trace_sha256: cbbd753160cdb105926fb54d349b4662b9bc573f5aede008eb3d949efe1bd8b7
+  binary_sha256: 206171460c3526fb2c3fbdcaf5559dd29468839d1567973cd6d554ad515057ca
   trace_generation_time: 1719521762.98606
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_2d82c4c4740ef8807d239e3abe372166.pcap
@@ -3728,7 +3882,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 17353
-  sha256: 985d15242f7b03ad9c91dd69863cf19df75ed38dfecdb02e3df900a49f8e5dc8
+  trace_sha256: 5bfab7487ace6a701ee08df7538dbc576adb16179c6d2141c8abc630ab6c66d3
+  binary_sha256: 985d15242f7b03ad9c91dd69863cf19df75ed38dfecdb02e3df900a49f8e5dc8
   trace_generation_time: 1719521690.605672
   trace_name: trojan.marte/rebma
   trace_uri: traces/virussign.com_1604b726b2662575c3ece2e0f73b7f22.pcap
@@ -3750,7 +3905,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 3798
-  sha256: 19c1dfbef15a12f20d1b05f34fd05f82178000bc99b0ec0f2f54538aca7c934e
+  trace_sha256: 582c316aca5d8aacfa2c364660d25564a4e5e03af29eddfe8355e8ee7eaf2778
+  binary_sha256: 19c1dfbef15a12f20d1b05f34fd05f82178000bc99b0ec0f2f54538aca7c934e
   trace_generation_time: 1719522170.19217
   trace_name: virus.expiro/moiva
   trace_uri: traces/virussign.com_a4ff440d4d470cd00ae315a0968ec83a.vir.pcap
@@ -3774,7 +3930,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 58b78003396c5cdd198c08e4bdc8dbf9479b61d65a4f1b1e07d950f624c56d32
+  trace_sha256: 7a69b56bd3141098bf1f54a4fddd6e958e806cdac9de13cb294943d66da289a7
+  binary_sha256: 58b78003396c5cdd198c08e4bdc8dbf9479b61d65a4f1b1e07d950f624c56d32
   trace_generation_time: 1719521737.3059223
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_2573586a43bce5af1c1859e7ce3b8ab3.pcap
@@ -3798,7 +3955,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 24
-  sha256: 25b0571c94d4f40e674dd561016b478485f6267238d2dcbfcc91c1468054276e
+  trace_sha256: e7443a168bf8fb8d3cb44b21396cb8b6636b0cc2c7f42455d35391918e60e287
+  binary_sha256: 25b0571c94d4f40e674dd561016b478485f6267238d2dcbfcc91c1468054276e
   trace_generation_time: 1719522052.5996118
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_6ac99c73e98269c937246a51f9754ccc.vir.pcap
@@ -3822,7 +3980,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 23
-  sha256: eb1f889637f6befa0c5f068d037ad8c9fc7376363f609a33bc9d116da19b9b7d
+  trace_sha256: aa4570cbcde0af4f46b1b832e1e83e2c9836b007b47a1406aed037b4aa3eb7c1
+  binary_sha256: eb1f889637f6befa0c5f068d037ad8c9fc7376363f609a33bc9d116da19b9b7d
   trace_generation_time: 1719522001.679339
   trace_name: trojan.zusy/quzva
   trace_uri: traces/virussign.com_5804edbdbb8ba927545470d3a50f25f9.vir.pcap
@@ -3846,7 +4005,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 10
-  sha256: e34dae04c6e2cb5cd0d27d5be7e69583bfa79833f47ab7f023e5b0077d2b2bd0
+  trace_sha256: efa6d2770612ff52f4e66c7da85866cb41cfae712bf4de31c721173e3dbcc75c
+  binary_sha256: e34dae04c6e2cb5cd0d27d5be7e69583bfa79833f47ab7f023e5b0077d2b2bd0
   trace_generation_time: 1719521981.8512328
   trace_name: trojan.agentb/bvip
   trace_uri: traces/virussign.com_521bcbc50f3a6c9f357337132a2626c6.vir.pcap
@@ -3868,7 +4028,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 10
-  sha256: e9ddb563edba91f87912dc21364c2fae0666d4c388e16416d4c56c054c80ef49
+  trace_sha256: 8394aac03a8d418a8896e73ece38e87d1c7f20cc0435456e27a937857afe1702
+  binary_sha256: e9ddb563edba91f87912dc21364c2fae0666d4c388e16416d4c56c054c80ef49
   trace_generation_time: 1719521660.2535093
   trace_name: trojan.vobfus/jorik
   trace_uri: traces/virussign.com_0b1a34fe11910cf942edd9a2ed670713.vir.pcap
@@ -3892,7 +4053,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 10
-  sha256: 66bde7f9732db408e8398764915337a7ed37c73b47b07fd350ec720df0a1587f
+  trace_sha256: 803fed06246d0c0323eec24527f10b6042da95bbefaf32a73b2414cadbabcfd9
+  binary_sha256: 66bde7f9732db408e8398764915337a7ed37c73b47b07fd350ec720df0a1587f
   trace_generation_time: 1719521754.3340135
   trace_name: trojan.agentb/bvip
   trace_uri: traces/virussign.com_2aeb47451c625e41958f070e5ce07981.pcap
@@ -3914,7 +4076,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 828f9f607e2569ed0014652d9e3d2b0854238ea81e9f7ab866a89c18cec1e040
+  trace_sha256: 5b61859234cdf463ad247060973dace9c4d17834c91867c5d9c5ef4cca4e1241
+  binary_sha256: 828f9f607e2569ed0014652d9e3d2b0854238ea81e9f7ab866a89c18cec1e040
   trace_generation_time: 1719521630.7253509
   trace_name: trojan.zusy/cerbu
   trace_uri: traces/virussign.com_0202d802ccf2eb7cf58a4a2839703d6f.vir.pcap
@@ -3938,7 +4101,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 24
-  sha256: ce811eda259c0e162b8f586dbf1e22755bc2222f14ed2451a8818e2eba15be67
+  trace_sha256: b3f31cd0d110ac7fe6b2a0eb480ae79cffde880314156f70bdcc188879cb5277
+  binary_sha256: ce811eda259c0e162b8f586dbf1e22755bc2222f14ed2451a8818e2eba15be67
   trace_generation_time: 1719522089.8958116
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_79ab5f84df8c136866564dc92b14979b.vir.pcap
@@ -3962,7 +4126,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 24
-  sha256: d5742cd3bdf8753f61d88b52f6fb2094f187490d504a4d0988df85a9f6361609
+  trace_sha256: fa3a88b45a16856af24d93e3a2d49eddf3986502e46a10e3f19a4f89ca2a478f
+  binary_sha256: d5742cd3bdf8753f61d88b52f6fb2094f187490d504a4d0988df85a9f6361609
   trace_generation_time: 1719521784.3301742
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_34a218422f6030d0b4de93151bf8b4ed.pcap
@@ -3986,7 +4151,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 9d0714a5318f4cf26b1498c2294dda93583abdf2c9eb37027cffc7b7521c1635
+  trace_sha256: 4348e12e388b14325bcf7bc73230b5e94d4d90f8e298ce923b117f5545c70a88
+  binary_sha256: 9d0714a5318f4cf26b1498c2294dda93583abdf2c9eb37027cffc7b7521c1635
   trace_generation_time: 1719521635.8333783
   trace_name: trojan.zusy/nvjol
   trace_uri: traces/virussign.com_03cbb5377c704dd354f9eb277323de51.pcap
@@ -4010,7 +4176,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 42
-  sha256: 27fd17c477fd83bdb7ffc67ae0b854da58498b9c88a460df7384266c21025699
+  trace_sha256: 700cf10f9f39611714df63f088f3f4b742d88150f46a895544465bf9f0b708b8
+  binary_sha256: 27fd17c477fd83bdb7ffc67ae0b854da58498b9c88a460df7384266c21025699
   trace_generation_time: 1719521674.3175845
   trace_name: trojan.pincav/muldrop3
   trace_uri: traces/virussign.com_10a65b8c834909302f109a60e6b35232.vir.pcap
@@ -4036,7 +4203,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 586
-  sha256: 41418ba257c718d3e04166402ae09fd22b2ec6611abf01f66fef1c1d01cc67a0
+  trace_sha256: 95b9b0bfb916e02a9687131c9b3a37f21f04e496b581cf33ef9ce0d3ccb98bce
+  binary_sha256: 41418ba257c718d3e04166402ae09fd22b2ec6611abf01f66fef1c1d01cc67a0
   trace_generation_time: 1719521694.7896943
   trace_name: trojan.msil/krypt
   trace_uri: traces/virussign.com_17e29d4867a27fa612e1d02715a2b7c2.vir.pcap
@@ -4060,7 +4228,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 509
-  sha256: b8f2037d914e51ce1f06252261d801a4ece712009252d270b39978c591d79b3e
+  trace_sha256: c8dd5d4003bf82d55d474503bbb4196ba7fc18af77c4f6831d53a4af7e3a6903
+  binary_sha256: b8f2037d914e51ce1f06252261d801a4ece712009252d270b39978c591d79b3e
   trace_generation_time: 1719521756.2860239
   trace_name: Unknown
   trace_uri: traces/virussign.com_2bda610f472ac7e4f8e7beec2a291958.vir.pcap
@@ -4074,7 +4243,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 107
-  sha256: 3e07a6816cf1ecb51ffb5e40e006aceb9cbab3c12dbfa6c0a1ae9ddf9d5a9684
+  trace_sha256: 45ddfd36220e1ab8434ac96b01585ff9963125555b605be98ff598843e465edd
+  binary_sha256: 3e07a6816cf1ecb51ffb5e40e006aceb9cbab3c12dbfa6c0a1ae9ddf9d5a9684
   trace_generation_time: 1719521637.853389
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_0486f4450b6603d39807713165208506.pcap
@@ -4100,7 +4270,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 537a86fb9d8337fc010c01635c5aecd7babe6d0aa732c2f8a991b068ee81e5a4
+  trace_sha256: a95660772cb91ff41fc58d203c8ed50b62548d0d730363ccb135c0f799f010cd
+  binary_sha256: 537a86fb9d8337fc010c01635c5aecd7babe6d0aa732c2f8a991b068ee81e5a4
   trace_generation_time: 1719521661.2175143
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_0b84ffc66c90e3d70d895934844720a4.vir.pcap
@@ -4124,7 +4295,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 1
-  sha256: 6a61b451fe7f264c40b684ed8da46ab2e1e0bdb9d09555725c6299f1a3c34a3a
+  trace_sha256: 39a572984e406357ebfeb33b1a8783d19c416f798ea0028936852ac74234739b
+  binary_sha256: 6a61b451fe7f264c40b684ed8da46ab2e1e0bdb9d09555725c6299f1a3c34a3a
   trace_generation_time: 1719521988.2072668
   trace_name: trojan.ipamor/backdoor2
   trace_uri: traces/virussign.com_54813c6fe129f486d04f1e2e179543aa.vir.pcap
@@ -4150,7 +4322,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 24
-  sha256: 4a4a57d198b632ee8c37578064ad166ec8dbe7b573b981d632112f560b806536
+  trace_sha256: 10c0cc8deb6818da609e9eea9af161437d41a7c2be0f8b73f0ac4d0e9b91b4ff
+  binary_sha256: 4a4a57d198b632ee8c37578064ad166ec8dbe7b573b981d632112f560b806536
   trace_generation_time: 1719521757.2660291
   trace_name: trojan.zusy/r002c0df724
   trace_uri: traces/virussign.com_2c0d4d170c2efb66c68363941709c3f2.vir.pcap
@@ -4174,7 +4347,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 1527
-  sha256: f20d7e98e701f4d277c210a301c3bcfeea6e9bb340a5b046a1d5805b78bfbc97
+  trace_sha256: 08790db43b57e07ce4a9589d9ce5767e03f5b641bf1177e54a3da23d45d2040d
+  binary_sha256: f20d7e98e701f4d277c210a301c3bcfeea6e9bb340a5b046a1d5805b78bfbc97
   trace_generation_time: 1719521686.0736475
   trace_name: pua.connectwise
   trace_uri: traces/virussign.com_15237cbcb5055cab14dd2bb76214c8c0.vir.pcap
@@ -4198,7 +4372,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2569
-  sha256: 85cd1be45482fcdcd2dd8a53bf388e647b012182dd60cd6bdbf73817347bfc7d
+  trace_sha256: 4851af33ec0ad24a617c77b35868cc48538d6f1ad5ffcbf46787806686630e9a
+  binary_sha256: 85cd1be45482fcdcd2dd8a53bf388e647b012182dd60cd6bdbf73817347bfc7d
   trace_generation_time: 1719521729.4618802
   trace_name: miner.dacic/deepscan
   trace_uri: traces/virussign.com_2321a01e66aaebbe9c7b8239efe69d2b.pcap
@@ -4224,7 +4399,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 2
-  sha256: d73a3b09d892a9f437be96f45435245f6fbed3d03543a5a8c1799b28077d5e33
+  trace_sha256: 74cbbadd227e8a8fcc8084acdf418299ad38e69e06c86a0596544b43db954cf7
+  binary_sha256: d73a3b09d892a9f437be96f45435245f6fbed3d03543a5a8c1799b28077d5e33
   trace_generation_time: 1719521938.0269978
   trace_name: downloader.symmi/adload
   trace_uri: traces/virussign.com_41c6010810c969d1479034e630646674.vir.pcap
@@ -4248,7 +4424,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 3607
-  sha256: 049a0e3bfd3ac4fe045f78abfc24d73ca2e8ee0fb1286f01744d31e7b8f301a3
+  trace_sha256: 2ba0399eff25169cf40d8e0d2700003ae8fbc4fcfb0a500426fd18d0c7b8e98a
+  binary_sha256: 049a0e3bfd3ac4fe045f78abfc24d73ca2e8ee0fb1286f01744d31e7b8f301a3
   trace_generation_time: 1719521640.817405
   trace_name: virus.expiro/moiva
   trace_uri: traces/virussign.com_055d029b8d504af812b3f03b7c265fd2.pcap
@@ -4272,7 +4449,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 24
-  sha256: f62b6c4efc16ac56587d681852c7ded49a327cb301627ed1609744386f7be3e0
+  trace_sha256: bd5b193e90fef2f0f28f371454bfec28f6335ba6321126f7e5a71e6d3f6b273f
+  binary_sha256: f62b6c4efc16ac56587d681852c7ded49a327cb301627ed1609744386f7be3e0
   trace_generation_time: 1719521724.1498518
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_216d80648c6cd9d6de886c62328f13da.vir.pcap
@@ -4296,7 +4474,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 122
-  sha256: dbc81451d7798b4b3dfba15695c379718d88d706ec7ed3ba078f97f1b11afcae
+  trace_sha256: 6a703f8f740a809b6d70d27a21bdf6501fa5c172d510ac8fc2911757666ea6eb
+  binary_sha256: dbc81451d7798b4b3dfba15695c379718d88d706ec7ed3ba078f97f1b11afcae
   trace_generation_time: 1719521716.1578088
   trace_name: trojan.shiz/emotet
   trace_uri: traces/virussign.com_1f56b917e5d5ba25232a21320b986902.vir.pcap
@@ -4318,7 +4497,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 7fd6937178e6823583199729b49aa09c7192c505030d1957e91cdc7ff0a14380
+  trace_sha256: 6901a6cda886b97bf0ba7ce2a543505cd5f4e3d7458f3cf67f82e6ac1efcbb1d
+  binary_sha256: 7fd6937178e6823583199729b49aa09c7192c505030d1957e91cdc7ff0a14380
   trace_generation_time: 1719521735.00591
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_247ee4be8b2fffdff31966afff922b72.vir.pcap
@@ -4342,7 +4522,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 208
-  sha256: 5472d190b8dcc39e66924e4914a84e9372d25b474e288455233153a1dff2032f
+  trace_sha256: 2596a8133b1337e2ad6e9b086ec69c0610be97d77a2077bc837d85e860a80080
+  binary_sha256: 5472d190b8dcc39e66924e4914a84e9372d25b474e288455233153a1dff2032f
   trace_generation_time: 1719522188.7322512
   trace_name: adware.domaiq/bundler
   trace_uri: traces/virussign.com_b0c7cece70e2e49e234f55b512cc7f5a.vir.pcap
@@ -4368,7 +4549,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 22
-  sha256: 72ddbe7621d9e1a80b3658ea0bc106bfdd4e89ad600ffa531cb412e17a667ae3
+  trace_sha256: 7d86287137ebfd3b44f0adb426501e5f1dc7732501f98db18aa187ff62e3e402
+  binary_sha256: 72ddbe7621d9e1a80b3658ea0bc106bfdd4e89ad600ffa531cb412e17a667ae3
   trace_generation_time: 1719521983.0952394
   trace_name: downloader.zusy
   trace_uri: traces/virussign.com_527e31c440f474af6a9c55b0aa6d75bc.vir.pcap
@@ -4392,7 +4574,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 13
-  sha256: 26c58d3320fd558ac77777cbb126e0dd4f18ba2d49808f4ceeb556a8a152fbb8
+  trace_sha256: 800c7245797d6f8de40ba6a33f7023cbeb1cf13e67285e034ca736f38236a1d2
+  binary_sha256: 26c58d3320fd558ac77777cbb126e0dd4f18ba2d49808f4ceeb556a8a152fbb8
   trace_generation_time: 1719521658.4374995
   trace_name: trojan.vbkrypt/midie
   trace_uri: traces/virussign.com_0b066ea2495550e99b39d8fe7a813f8e.pcap
@@ -4418,7 +4601,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 24
-  sha256: 47b925dee6f094b630235c4455d12f36c5a6661fa421c79819d5ee971efdda3b
+  trace_sha256: a56202de7636ee8ee6f5c66c8f1842f7e324abb615ad36b7abe6e77d08750273
+  binary_sha256: 47b925dee6f094b630235c4455d12f36c5a6661fa421c79819d5ee971efdda3b
   trace_generation_time: 1719521970.0591695
   trace_name: trojan.zusy/putki
   trace_uri: traces/virussign.com_4c4fccc29854d92b64761d5a5e242847.vir.pcap
@@ -4442,7 +4626,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 79edd1e4ad633c4816793e87b6459e8cbbcfa1efa072b9e8347be886f03dedd6
+  trace_sha256: e714a4804bf0055c0ce805f2899c07f863c73262791c8f4bf0900cdddc936a52
+  binary_sha256: 79edd1e4ad633c4816793e87b6459e8cbbcfa1efa072b9e8347be886f03dedd6
   trace_generation_time: 1719521772.1061087
   trace_name: trojan.zusy/llegt
   trace_uri: traces/virussign.com_30758504298b9ad676f1bbaed4bd718d.pcap
@@ -4466,7 +4651,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 1010
-  sha256: 34727a710b06f6550bb57dde4204985bab4e83d78622106b408391ab27e3a604
+  trace_sha256: 9c8853beadc3d54e6952cc5bd347512b7f234f3b54ad3c997ada4430722e350d
+  binary_sha256: 34727a710b06f6550bb57dde4204985bab4e83d78622106b408391ab27e3a604
   trace_generation_time: 1719522276.036635
   trace_name: trojan.botgor/burn
   trace_uri: traces/virussign.com_e90eb2a13bc4f37328c5015c24e9b18f.vir.pcap
@@ -4490,7 +4676,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 5384
-  sha256: d6ca49c8d12da1e75e651ac95f20a25cdd33cdbefa5e52a23b5a9a42499fd9a7
+  trace_sha256: 56b047487ee624e5b5e5e5b886a34b35e27b57b7c5ffba6e3ef3ce89df5ac1b1
+  binary_sha256: d6ca49c8d12da1e75e651ac95f20a25cdd33cdbefa5e52a23b5a9a42499fd9a7
   trace_generation_time: 1719522186.20424
   trace_name: trojan.mewsspy/symmi
   trace_uri: traces/virussign.com_aeaf2c55d04f9b793c2a4b1176fbc070.vir.pcap
@@ -4512,7 +4699,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 5
-  sha256: dff91da14e05a1515cab04bc552d5d1415862c50360d421ea1953c121676d5ae
+  trace_sha256: 0bf892a8526acb9123736dec029c45f5a27fd78ee4572dd99c94be0d2deb797e
+  binary_sha256: dff91da14e05a1515cab04bc552d5d1415862c50360d421ea1953c121676d5ae
   trace_generation_time: 1719522143.984055
   trace_name: trojan.deepscan/dialer
   trace_uri: traces/virussign.com_93ad6143f7812029782a7654d15b65be.vir.pcap
@@ -4536,7 +4724,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 74
-  sha256: 2c072c67966c347916ac0337d5d518f9b2a860f4e84104e63b03a9bee5d25b74
+  trace_sha256: 34a5b3c826813dcb41f505368779b3fab05d7e73fcbf587795fb9a17b03621e9
+  binary_sha256: 2c072c67966c347916ac0337d5d518f9b2a860f4e84104e63b03a9bee5d25b74
   trace_generation_time: 1719521763.730064
   trace_name: trojan.dorifel/dacic
   trace_uri: traces/virussign.com_2dbf38bcd8bd12441e9f9c19df342cc0.pcap
@@ -4560,7 +4749,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: 21698c8a798373b7f042baa6de46f7d5fc48bae9f5d548a185062d6863d1f263
+  trace_sha256: ac76ddf12b2674743e3fcb1131eb0e7eeee1762a751e617165596b1fb710bf90
+  binary_sha256: 21698c8a798373b7f042baa6de46f7d5fc48bae9f5d548a185062d6863d1f263
   trace_generation_time: 1719521767.0740817
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_2ed62b82d191f7883103055df3d95cbf.vir.pcap
@@ -4584,7 +4774,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 1
-  sha256: e56cdd4e9b2061fcf084942e9fa4d1f6c884d311ce8ad9c4123d801b7a959e93
+  trace_sha256: 8934e602eb8ec6c007b4304c0e94b93211e0261378da6f642925446f78967e34
+  binary_sha256: e56cdd4e9b2061fcf084942e9fa4d1f6c884d311ce8ad9c4123d801b7a959e93
   trace_generation_time: 1719522096.1838453
   trace_name: trojan.mansabo/banload
   trace_uri: traces/virussign.com_7c8d7dc2fbb5f2847f0cc46fef1203f0.vir.pcap
@@ -4610,7 +4801,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 61
-  sha256: 6777b4e59a0cfa5aac6a58c64f0c97afc2dd1f4fa7ba2da5f7129287773a3155
+  trace_sha256: dc63dc2aa1a7ffa7548f9321f00abc713e9ed4e230ca68384941bc03a051ad9e
+  binary_sha256: 6777b4e59a0cfa5aac6a58c64f0c97afc2dd1f4fa7ba2da5f7129287773a3155
   trace_generation_time: 1719521639.0333955
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_04d5d43d852193c3a6aa9519a5662459.pcap
@@ -4634,7 +4826,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 88
-  sha256: 6fd7fb17d78746e54c9f1f4b737c623503d8e5a45bcc8347d5bfcfb5e740f499
+  trace_sha256: ef1552e6da7c2575d1db4474c9a04b89e3051d63989f2f98a38490e4efa9ce43
+  binary_sha256: 6fd7fb17d78746e54c9f1f4b737c623503d8e5a45bcc8347d5bfcfb5e740f499
   trace_generation_time: 1719521668.9415557
   trace_name: trojan.snojan/corewarrior
   trace_uri: traces/virussign.com_0ef8e846275149b25999d97f24511d28.vir.pcap
@@ -4660,7 +4853,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 99
-  sha256: 366b5c903c465f954ea27c0e8e930d4e0e2e6df28ec4f1fd038632233c8fecbd
+  trace_sha256: 6de800983c4ddbb23aa1462d631dee5a1afc63e8306e43678137def3fe51cc2b
+  binary_sha256: 366b5c903c465f954ea27c0e8e930d4e0e2e6df28ec4f1fd038632233c8fecbd
   trace_generation_time: 1719521637.045385
   trace_name: trojan.msil/snakestealer
   trace_uri: traces/virussign.com_0451f8d2d0162106004e683ef1390d0a.vir.pcap
@@ -4684,7 +4878,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: bcd69069a6d13b034e2d962cc58d29ccfd96a65cd5552b016c5ed7981181b263
+  trace_sha256: 576754168c82d54b776e56bf568096a46182ccea253d45729a7ba2dccbce07f6
+  binary_sha256: bcd69069a6d13b034e2d962cc58d29ccfd96a65cd5552b016c5ed7981181b263
   trace_generation_time: 1719521688.6536615
   trace_name: trojan.zusy/gjgch
   trace_uri: traces/virussign.com_159f0f011220a9036f2429db906106af.vir.pcap
@@ -4708,7 +4903,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 23
-  sha256: 34ab62e7d4494bb580e2699355ca0f0887633d3e17056c2af2e830960b4b54e6
+  trace_sha256: 3a8eb3ae0bab64ea26acbca040bca5273ce5320b39a211cc2d7d78d1638085a3
+  binary_sha256: 34ab62e7d4494bb580e2699355ca0f0887633d3e17056c2af2e830960b4b54e6
   trace_generation_time: 1719521989.6352744
   trace_name: trojan.zusy/r002c0df724
   trace_uri: traces/virussign.com_55069df815a2ff2ed0f7b07371765a18.vir.pcap
@@ -4732,7 +4928,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 7f47fbd4d9ecf5c74a1e52799dba221439757e6a37d3aa38b55dade36249aecc
+  trace_sha256: 60fbbb1111af03db64216a2f566a5e0fc390e3b9354311d90b0ff70e62866e1d
+  binary_sha256: 7f47fbd4d9ecf5c74a1e52799dba221439757e6a37d3aa38b55dade36249aecc
   trace_generation_time: 1719521643.4574192
   trace_name: trojan.zusy/r002c0df624
   trace_uri: traces/virussign.com_0677410daa36c84d86c6a85ca1711118.pcap
@@ -4756,7 +4953,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 33
-  sha256: eb13caec5ccaaaac5aa5e2f9586b736fe7189187fa36932f97075b72c3ba464f
+  trace_sha256: b6ee8dcd1ff8491462c30e30ab8a19924142061dd19a32e49b50ce7ffe5daced
+  binary_sha256: eb13caec5ccaaaac5aa5e2f9586b736fe7189187fa36932f97075b72c3ba464f
   trace_generation_time: 1719521771.1061034
   trace_name: miner.banload/abipe
   trace_uri: traces/virussign.com_301f4dbb8291f1d653c0c912cbf9b1a8.pcap
@@ -4782,7 +4980,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 87
-  sha256: deba6bb60c4df449a6011bb7f4ff9158b70a051527431feec270ba0af54c869c
+  trace_sha256: 20f07042ac03e3808a5f63baa2b94d3637301f4c87d5fe741a105ba9a179ecae
+  binary_sha256: deba6bb60c4df449a6011bb7f4ff9158b70a051527431feec270ba0af54c869c
   trace_generation_time: 1719521688.4896605
   trace_name: trojan.farfli/palevo
   trace_uri: traces/virussign.com_1595219c7ee9a2ff8346d911c3d3cba4.vir.pcap
@@ -4808,7 +5007,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: 79edd1e4ad633c4816793e87b6459e8cbbcfa1efa072b9e8347be886f03dedd6
+  trace_sha256: e7fa1c8dc4db0c5b066fdb6096c3354f2f792e071d236a7537dbfe5a2ec892c2
+  binary_sha256: 79edd1e4ad633c4816793e87b6459e8cbbcfa1efa072b9e8347be886f03dedd6
   trace_generation_time: 1719521772.33411
   trace_name: trojan.zusy/llegt
   trace_uri: traces/virussign.com_30758504298b9ad676f1bbaed4bd718d.vir.pcap
@@ -4832,7 +5032,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: e92ec3f9243648f66ea9168b7e0e599022a198ec7cf98f13220f5c304a6363ed
+  trace_sha256: 129ed0a7d6588e6e68cf3bac7f329b2fbe3d458829c4e40b7d4c4b3d423a0bd9
+  binary_sha256: e92ec3f9243648f66ea9168b7e0e599022a198ec7cf98f13220f5c304a6363ed
   trace_generation_time: 1719521661.5895164
   trace_name: downloader.zusy
   trace_uri: traces/virussign.com_0bba56537258e112d8ddef6c9a8a793b.pcap
@@ -4856,7 +5057,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 25
-  sha256: 42ecef404ddf260b392fc416eb60ed51ee1ae6a92f03fbfae07cfa5546533b09
+  trace_sha256: a7c64f007bc1dcc92f610eb0e86a437f29c10db48712b5b96334922e2c48d928
+  binary_sha256: 42ecef404ddf260b392fc416eb60ed51ee1ae6a92f03fbfae07cfa5546533b09
   trace_generation_time: 1719521998.11932
   trace_name: trojan.zusy/gsktj
   trace_uri: traces/virussign.com_57b67d4d58343826d89587a570080131.vir.pcap
@@ -4880,7 +5082,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2115
-  sha256: e5de8fb37994e84ac74a3e2f61321d65ad8d184915568ae359802444d75ca456
+  trace_sha256: 1deaac66a9c5e0af800204bfd5dc5774b455e4422aeb10fc161629f9daa2d9ff
+  binary_sha256: e5de8fb37994e84ac74a3e2f61321d65ad8d184915568ae359802444d75ca456
   trace_generation_time: 1719521719.0898247
   trace_name: miner.dacic/deepscan
   trace_uri: traces/virussign.com_200a5de85728898a7f13b7d6542e4815.pcap
@@ -4906,7 +5109,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 98
-  sha256: e44f40713ab33675545d4d0ba01c5aa0c3f16926ad2f958d7d543156b047b98e
+  trace_sha256: 4db10d432e38dacb83780cab0a2c090bbd79cd85233f3b1dacb399c430c72bb6
+  binary_sha256: e44f40713ab33675545d4d0ba01c5aa0c3f16926ad2f958d7d543156b047b98e
   trace_generation_time: 1719521626.6773293
   trace_name: trojan.shiz/emotet
   trace_uri: traces/virussign.com_00f28fc0f3b5a30751a2624ecbec7b1d.vir.pcap
@@ -4930,7 +5134,8 @@ traces:
   infected_ip_address: 192.168.1.55
   infected_mac_address: 00:50:56:8c:9d:9e
   packets: 117
-  sha256: fc16fb413e724e1062fa1834242b4e401a205f4e670e8160dea6009817504ef1
+  trace_sha256: 9328fddc8a6f2c6cb35e899f49e04269537753ee828972266eb8a34b70976212
+  binary_sha256: fc16fb413e724e1062fa1834242b4e401a205f4e670e8160dea6009817504ef1
   trace_generation_time: 1719522047.3955839
   trace_name: trojan.injuke/vidar
   trace_uri: traces/virussign.com_6853c792f9e49611166fad1423170e3a.pcap
@@ -4952,7 +5157,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: ead6c1a954f90e02f9ad94e7f7f89ec924e02145fb89158c0603b2e598821f3c
+  trace_sha256: 8d0730d217f22d09aacc18c298279d72c30a7fcec444f5d7cf407280a7d84796
+  binary_sha256: ead6c1a954f90e02f9ad94e7f7f89ec924e02145fb89158c0603b2e598821f3c
   trace_generation_time: 1719521695.2016966
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_17ea8a2ec5e915897e71dc50b3f8c381.vir.pcap
@@ -4976,7 +5182,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 4
-  sha256: 5b8998edb16a5bc481cb9708ac37dfe22d627bc3b9760c04a1208d4dc8ac0f23
+  trace_sha256: 6a6ea2df08541ea5b8a2c6918c44cfa174ac4dedb17f6f5003a0f38a7f958ad7
+  binary_sha256: 5b8998edb16a5bc481cb9708ac37dfe22d627bc3b9760c04a1208d4dc8ac0f23
   trace_generation_time: 1719521748.3979816
   trace_name: trojan.pincav/download
   trace_uri: traces/virussign.com_294d7cf7e47bd0d75f1965503b77588b.pcap
@@ -5002,7 +5209,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 690d1ab7283493efb6af9b237bab1928a87923fbbb6e5b73b91664bbcd0222be
+  trace_sha256: d499ffde4ee3d9d33fd30c87a1bdb6ff5a14e2828ddf3c1c69054dd4e2c1f949
+  binary_sha256: 690d1ab7283493efb6af9b237bab1928a87923fbbb6e5b73b91664bbcd0222be
   trace_generation_time: 1719521640.3454025
   trace_name: trojan.zusy/avvnw
   trace_uri: traces/virussign.com_0522ae744209afe0062f0f44e5784c4f.vir.pcap
@@ -5026,7 +5234,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 3000
-  sha256: aef74033d259df049593377b8be21ed1ee88e2425881526c003df97557dcf0a0
+  trace_sha256: 63a141576471d99a94498ea5caf57a000709174358cbef9d867052794263180b
+  binary_sha256: aef74033d259df049593377b8be21ed1ee88e2425881526c003df97557dcf0a0
   trace_generation_time: 1719521639.357397
   trace_name: miner.dacic/deepscan
   trace_uri: traces/virussign.com_04f49b1fdb3e7ba99a6621ddbfd19dfe.vir.pcap
@@ -5052,7 +5261,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: d579e4996f74b5aec46907035effd92364ccb75edaee8d1bb79192db590953e6
+  trace_sha256: 9e31e4a979f9a75d743b52c244ad77c247ec943d9b757c51df84329ccd41b4e8
+  binary_sha256: d579e4996f74b5aec46907035effd92364ccb75edaee8d1bb79192db590953e6
   trace_generation_time: 1719521747.0659745
   trace_name: trojan.zusy/pufzq
   trace_uri: traces/virussign.com_28cdcdc5c6c6b489d9d35f09918e468a.pcap
@@ -5076,7 +5286,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 5
-  sha256: 4b62ee1fe7289d74fedebd1f57c308708d3d30c0cbf002b8f305d81c803bfabe
+  trace_sha256: f9929e6048c51312e880802e891f054c451865e5cb0999ab9a41e854a9334d90
+  binary_sha256: 4b62ee1fe7289d74fedebd1f57c308708d3d30c0cbf002b8f305d81c803bfabe
   trace_generation_time: 1719521696.5337036
   trace_name: trojan.atraps
   trace_uri: traces/virussign.com_17f6a15006b8bdda1df4eb5c2606f6db.vir.pcap
@@ -5098,7 +5309,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 22
-  sha256: 9c6ea7af8eb2b8f3fd59670a772cb3b8151e6b7736888f7e8fcd92d73544a000
+  trace_sha256: d71cf69fcd1f22c84c127831cb7db782a4b5910326b66e53cede5d2679664318
+  binary_sha256: 9c6ea7af8eb2b8f3fd59670a772cb3b8151e6b7736888f7e8fcd92d73544a000
   trace_generation_time: 1719522106.499891
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_7fcb618ba5a59a5c7f67ceeade530544.vir.pcap
@@ -5122,7 +5334,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: 1e613873cba5342b9f9f9c2425e2ded634f1936346e11f5d2889dd18f7aa30a9
+  trace_sha256: 617191d654cc0ef3f9e7124e42b6275f9d82c269bb1f0e35a7d9fb8d9e9d2dc6
+  binary_sha256: 1e613873cba5342b9f9f9c2425e2ded634f1936346e11f5d2889dd18f7aa30a9
   trace_generation_time: 1719521662.4975212
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_0c2180dbf81085f182355387768443b1.vir.pcap
@@ -5146,7 +5359,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 22
-  sha256: f02db32a74e5de8d14812849a6ae8b219b63c6b4088964191a55953852fd7d09
+  trace_sha256: c809929b1ca14299854fedffec76a646a8002407c2ee864672f9481bb4936e46
+  binary_sha256: f02db32a74e5de8d14812849a6ae8b219b63c6b4088964191a55953852fd7d09
   trace_generation_time: 1719521690.24167
   trace_name: trojan.zusy/sdum
   trace_uri: traces/virussign.com_15fe27d450941374b39a0c69bdb7aec3.vir.pcap
@@ -5170,7 +5384,8 @@ traces:
   infected_ip_address: 192.168.1.56
   infected_mac_address: 00:50:56:8c:a6:4b
   packets: 2
-  sha256: 0b7dcaa4967fc42dc44c93f216cdc6219c1894abc89d58862f1d5360ed3fd8d4
+  trace_sha256: aba7111c0cd1e910dd041c655b55d420790964e2cda1595d03c7089452cd8bee
+  binary_sha256: 0b7dcaa4967fc42dc44c93f216cdc6219c1894abc89d58862f1d5360ed3fd8d4
   trace_generation_time: 1719522120.7799535
   trace_name: trojan.nsis/addrop
   trace_uri: traces/virussign.com_8508113fd09ba10ffdaa2acb672b9dbe.vir.pcap
@@ -5196,7 +5411,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 18
-  sha256: 776a58fff57ffda18cf27dd51a571c33791aa8752566cb10a1bda6ba8752e563
+  trace_sha256: 7ad3d6ae0c5ef091e8f7c96094f65d52a7b893972f3ee8a49284404e4d8690e9
+  binary_sha256: 776a58fff57ffda18cf27dd51a571c33791aa8752566cb10a1bda6ba8752e563
   trace_generation_time: 1719521670.313563
   trace_name: trojan.zusy/r03bc0df724
   trace_uri: traces/virussign.com_0fa4e6454b8531346ef14d9c1bdcb5a9.pcap
@@ -5220,7 +5436,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 23
-  sha256: 792688943e6de331584e6af38d96367867977bca9b4ad81fbe491c841fc10ef3
+  trace_sha256: b42032272ca7acc90fde0c99c128469e3877be84609a69f741baa5a5ff9af38b
+  binary_sha256: 792688943e6de331584e6af38d96367867977bca9b4ad81fbe491c841fc10ef3
   trace_generation_time: 1719521742.48195
   trace_name: trojan.zusy/irrzx
   trace_uri: traces/virussign.com_275d88c748726e2d084dafd58ccc9904.pcap
@@ -5244,7 +5461,8 @@ traces:
   infected_ip_address: 192.168.1.57
   infected_mac_address: 00:50:56:8c:6f:c9
   packets: 65
-  sha256: c8cf82ad6d001caead1d7dab865e1c73255418a54e75830aef64a5f9eb3fa12d
+  trace_sha256: 99a1269e6367b4a370ecd0d90ff3850656d1853c480b44b5c0d03ea8602a575b
+  binary_sha256: c8cf82ad6d001caead1d7dab865e1c73255418a54e75830aef64a5f9eb3fa12d
   trace_generation_time: 1719522195.992283
   trace_name: trojan.dacic/deepscan
   trace_uri: traces/virussign.com_b2afd2faa795387f394941c0a32b701c.pcap
@@ -5268,7 +5486,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 25
-  sha256: c9c02999f418aca84594ef95c5238260e6d8a31e89486a6156922e7ac02c4cd2
+  trace_sha256: aaa856bc4c18fb9da5e1b205594ba660f0cfde1aa1a1d62240c7cf2cb4d353d9
+  binary_sha256: c9c02999f418aca84594ef95c5238260e6d8a31e89486a6156922e7ac02c4cd2
   trace_generation_time: 1719521765.5540736
   trace_name: miner.banload/abipe
   trace_uri: traces/virussign.com_2e5272a5e7f78d948e838334a8f8df25.vir.pcap
@@ -5294,7 +5513,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 2680
-  sha256: 221d0f5dbb384d664aeed50d44cc458197654951fb6a7e0710992e78abf34d40
+  trace_sha256: 5c2323225c12f487e7784df37080ca6f0894dc9d3fb32b8a2ee9b583b94a7076
+  binary_sha256: 221d0f5dbb384d664aeed50d44cc458197654951fb6a7e0710992e78abf34d40
   trace_generation_time: 1719521668.3695526
   trace_name: virus.expiro/moiva
   trace_uri: traces/virussign.com_0e9a98c29fb496ad60106333ccb2d378.pcap
@@ -5318,7 +5538,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 21
-  sha256: 50737112dd02a5b86d457404e15fbcc87bfb7c5ba76cfb1da46c35ecf6ae3bf0
+  trace_sha256: 7435dea1eba4a4a3615712e4452fb320968fdb9224338c89dbfc6ada6c719ba6
+  binary_sha256: 50737112dd02a5b86d457404e15fbcc87bfb7c5ba76cfb1da46c35ecf6ae3bf0
   trace_generation_time: 1719521787.4261909
   trace_name: trojan.zusy
   trace_uri: traces/virussign.com_35d5ff0e50af879b500e694c9ba57073.vir.pcap
@@ -5342,7 +5563,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 20
-  sha256: 6c9070a21cf40e83e434e33ff83207ed27caf4281785287d619b7651b301c81c
+  trace_sha256: 07ecd7cc8939ed65e20d4ca2d8ab4d5fbb29ce7a4b6f048465182a89a473c6b8
+  binary_sha256: 6c9070a21cf40e83e434e33ff83207ed27caf4281785287d619b7651b301c81c
   trace_generation_time: 1719521664.2655306
   trace_name: trojan.zusy/nydoq
   trace_uri: traces/virussign.com_0cbc2c028f3e17d3f647106c16c13c02.vir.pcap
@@ -5366,7 +5588,8 @@ traces:
   infected_ip_address: 192.168.1.59
   infected_mac_address: 00:50:56:8c:6e:c0
   packets: 14554
-  sha256: 320ced58c2d1d91b50ab6afce376cd311695ccd8582a84be664cb3777f8e3ab6
+  trace_sha256: 69b7e5c30f5d149c4acdb71fb61181ef8793cc7e1a53b28d4931349cca43643f
+  binary_sha256: 320ced58c2d1d91b50ab6afce376cd311695ccd8582a84be664cb3777f8e3ab6
   trace_generation_time: 1719521654.7454796
   trace_name: trojan.vtflooder/razy
   trace_uri: traces/virussign.com_0ad4e91187d84f6e6f7e64459257ded4.pcap
